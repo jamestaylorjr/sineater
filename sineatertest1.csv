@@ -1,0 +1,515 @@
+dirty_lines,clean_lines
+Studying the role of rice endogenous miRNA that involved in rice and rice blast interaction is of a great significance for rice breeding and disease control.,Endogenous rice micro RNAs (miRNAs) hold potential for the improvement of breeding efforts-- particularly in the case of disease resistance.
+" In the previous study, we identified a series of miRNAs that participate in resistance to rice blast by comparing the rice miRNA expression pattern between resistant material and sensitive material after infected Magnaporthe oryzae."," Previously, we identified a series of miRNAs that influence resistance to  the rice blast pathogen Magnaporthe oryzae by comparing the rice miRNA expression pattern between resistant  and susceptible cultivars after infection."
+ We found that expression pattern of miR167d was greatly affected by <SPECIES>., We found that expression pattern of miR167d was significantly affected[1] by <SPECIES>.
+" According to the previous study, miR167d is belong to a conserved microRNA (miRNA) family that involved in plant growth and develop."," According to the previous study, miR167d belongs to a conserved miRNA family that is involved in plant growth and development."
+" Nevertheless, the role of miR167d in rice immunity is still unknown."," Nevertheless, the role of this miRNA in rice disease resistance has yet to be explored."
+" Here, we show that miR167d acts as a negative regulator in rice and rice blast interaction and repress rice immunity against the rice blast by repressed its target gene expression."," Here, we show that miR167d acts as a negative regulator of rice immunity against <SPECIES> by repressing the expression of its target gene the host."
+" The expression of miR167d was significantly suppress in a resistant material, meanwhile, overexpression miR167d became more susceptible to different rice blast strains and accompanied down-regulation expression of resistance genes.", Upon infection.
+" Including its target genes, auxin responsive factors (ARFs) and predicted resistance (R) protein gene were also reduced expression by overexpression of miR167d at transcriptional and translational level.", the expression of miR167d in resistant cultivars was significantly less than in susceptible cultivars.
+" In contrary, overexpression its target mimicry that act as a repressor of miR167d led to more resistance to rice blast."," Meanwhile, the overexpression of miR167d induced susceptibility to several rice blast strains and, accompanied the down-regulation of resistance gene expression at both the transcriptional and translational level."
+" Moreover, all the target gene of miR167d were differently higher expression in the transgenic lines of MIM167d and resistant material.", Those downregulated genes included auxin responsive factors (ARFs) and predicted resistance (R) proteins.
+" Taken together, our result demonstrate that miR167d worked as a negatively regulator in rice immunity against <SPECIES> by differently down regulate its target genes."," By contrast, overexpression of a miR167d repressor mimic led to improved resistance to rice blast."
+"Rice (Oryza sative L.) is one of the staple food grain for more than half of the population in the word (Khush, 2005; Liu et al., 2013; Liu et al., 2014)."," Moreover, all the target genes of miR167d were significantly increased in  expression in both the transgenic  MIM167d (repressor mimic) lines and resistant cultivars."
+ Rice blast is one of destructive disease for rice production that caused by the fungal pathogen <SPECIES>.," Together, our results demonstrate that miR167d works as a negative regulator of rice resistance against <SPECIES> by down regulating host genes."
+" As in the following, rice and rice blast interaction has already become a model for plant disease system in study of plant and fungi interaction (Liu and Wang, 2016).","Rice (Oryza sative L.) is a staple food for more than half of the world population(Khush, 2005; Liu et al., 2013; Liu et al., 2014)."
+"During the plant and pathogen coevolution and the research in the past few decades, it well known that plant mount a two-layered innate immunity system to protect themselves avoid the damage by the pathogenic microorganism (Jones and Dangl, 2006), not except the rice.", Rice blast caused by the fungal pathogen <SPECIES> is one of the most destructive diseases in the rice production industry.
+" The first layer of the immunity is based on recognize the pathogen associated molecular patterns (PAMP) by pattern recognition receptors (PRRs) and named PAMP- triggered immunity (PTI) (Liu et al., 2012a; Shimizu et al., 2010)."," The Rice and rice blast interaction has already become a model for the study of fungal plant disease systems (Liu and Wang, 2016)."
+" In this layer, a series of defensive reactions will happen, like active oxygen burst and callose deposition(Lam, 2004), plant can effectively prevent most of pathogenic microorganism from make an incursion(Boller and Felix, 2009).", A thorough elucidation of the mechanisms of host resistance to rice blast will undoubtedly prove scientifically and economically invaluable.
+" However, successful pathogenic microorganisms can deliver the evolved effectors into plant cells and inhibit PTI.",The past several decades of research have revealed the picture of an intricately coevolved plant-pathogen interaction.
+" In turn, host also developed another system that can recognize the effectors of pathogen by resistance (R) proteins (Boller and He, 2009; Dou and Zhou, 2012; Liu et al., 2014), this is a second layer of plant immunity and called effector triggered immunity (ETI), accompanied by hypersensitive responses (HR)(Boller and Felix, 2009; Jones and Dangl, 2006).","  One of the most well-characterized features of this interaction is the two-layered system of innate immunity  plants use to protect themselves from pathogenic microorganisms (Jones and Dangl, 2006), and rice is no exception to this paradigm."
+"During the past few decades the increasing results showed that small RNA (sRNAs) play an important role in the regulation of defense response in plants among plant and fungal interaction(Katiyar-Agarwal and Jin, 2010)."," The first layer of the immunity is based on the recognition of pathogen associated molecular patterns (PAMPs) by pattern recognition receptors (PRRs) at the plasma membrane to trigger “pattern-triggered immunity” (PTI) (Liu et al., 2012a; Shimizu et al., 2010)."
+" SRNAs are a type of 20 – 30 nucleotide long and non-coding RNAs, which involved in regulation of gene expression through a process termed RNA silencing."," In this layer, a series of defensive physiological responses occur such as  the reactive oxygen species (ROS) burst and the deposition of callose at the cell wall(Lam, 2004)."
+" RNA silencing either by DNA methylation or chromatin modification or by mRNA cleavage or translation inhibition (Baulcombe, 2004; Holoch and Moazed, 2015; Jones-Rhoades et al., 2006)."," Through PTI, plants can effectively prevent most potentially pathogenic microorganisms from making an incursion (Boller and Felix, 2009)."
+" Based on the origin and function, plant sRNAs can be classified into major classes: small interfering RNA (siRNA) and microRNA (miRNA)."," However, most successful pathogenic microorganisms have evolved mechanisms to inhibit PTI, such as the intracellular secretion of effector proteins."
+" Most miRNA are belong to 21- 24 nucleotide length and derived from RNA that have a base paired hairpin structures(Chen, 2009), however siRNA are derived from complementary long dsRNA(Xie et al., 2004)."," In turn, plant hosts have  developed a  series of resistance (R) proteins which can recognize pathogenic effectors and trigger a second layer of defense called “effector triggered immunity” (ETI) (Boller and He, 2009; Dou and Zhou, 2012; Liu et al., 2014), This second layer of plant immunity is almost always accompanied by the hypersensitive response (HR) phenotype (Boller and Felix, 2009; Jones and Dangl, 2006)."
+" In planta, both Dicer-like proteins (DCLs), HUA ENHANCER 1 (HEN1), HYPONASTIC LEAVES 1 (HYL1) and Serrate (SE) are participated in the biogenesis pathways of sRNA(Holoch and Moazed, 2015; Katiyar-Agarwal and Jin, 2010; Rogers and Chen, 2013).","Over the past few decades, several lines of evidence have indicated that small RNA (sRNAs) play an important role in the regulation of plant defense responses against fungal pathogens (Katiyar-Agarwal and Jin, 2010)."
+" After process, double stranded sRNA are sorted and loaded into Argonaute proteins, then the passenger strand is drop-off(Liu and Paroo, 2010), then form RNA induced silencing complex (RISC)(Baumberger and Baulcombe, 2005; Rogers and Chen, 2013)."," sRNAs are 20 – 30 nucleotide long non-coding RNAs, which are involved in regulation of gene expression through a process termed RNA silencing."
+" Both of the siRNA and miRNA are involution in the response to abiotic and biotic stresses and in regulation of variety biological process include growth and development, reproduction (Chen, 2012; Katiyar-Agarwal and Jin, 2010; Khraiwesh et al., 2012)."," RNA silencing can occur either pre-transcriptionally through DNA methylation or chromatin modification, or post-transcriptionally by mRNA cleavage or translation inhibition (Baulcombe, 2004; Holoch and Moazed, 2015; Jones-Rhoades et al., 2006)."
+" Up to now, more than 38000 miRNAs are included in miRBase (http://www.mirbase.org/index.shtml)."," Based on their origin and function, plant sRNAs can be classified into two major classes: small interfering RNAs (siRNA) and microRNAs (miRNA)."
+ The first discovered resistance related miRNA in plant is Ath-miR393.," Most miRNA are 21-24 nucleotides long and are derived from RNAs which once contained a  paired hairpin secondary structure (Chen, 2009)."
+" This miRNA can induced by the pathogen associated molecular pattern (PAMP) molecule flg22 and enhance the resistance to virulent <SPECIES> DC3000 by silence the F-box auxin receptors and thus suppressing the auxin signaling(Navarro et al., 2006)."," By contrast, siRNAs are derived from complementary long dsRNAs (Xie et al., 2004)."
+" Future study indicated that miR393 in rice is a stress related miRNA, which widely involved in abiotic and pathogens stresses (Bian et al., 2012; Campo et al., 2013; Xia et al., 2012)."," In planta, both Dicer-like proteins (DCLs), HUA ENHANCER 1 (HEN1) andHYPONASTIC LEAVES 1 (HYL1) participate with the Serrate (SE) family of proteins  in the biogenesis of sRNA (Holoch and Moazed, 2015; Katiyar-Agarwal and Jin, 2010; Rogers and Chen, 2013)."
+" Other 16 miRNAs, including miR160a are induced by flg22 treatment."," After processing, double stranded sRNA are sorted and loaded into Argonaute proteins(Liu and Paroo, 2010)."
+" In contrast, other 11 miRNAs, including miR398b and miR773 are down regulated by flg22 treatment(Li et al., 2010a)."," This forms the RNA induced silencing complex (RISC) (Baumberger and Baulcombe, 2005; Rogers and Chen, 2013)."
+" Overexpression of miR773 and miR398b were suppressed the callose deposition by flg22 or bacteria treatment(Li et al., 2010a)."," siRNA and miRNA are involved in the  response to both abiotic and biotic stresses, andregulate of variety biological process including growth, development, and reproduction (Chen, 2012; Katiyar-Agarwal and Jin, 2010; Khraiwesh et al., 2012)."
+" In bacterial defending, an interesting studying about miR863-3p is that the miRNA can target both immunity positive regulator and negative regulator by fun turning on amplitude and timing.",      The first resistance related miRNA to be discovered in plants was Ath-miR393.
+" The miR863-3p negatively regulated a typical receptor-like pseudokinase1 (ARLPK1), ARLPK2 and SE gene at the early infection and later infection, respectively(Niu et al., 2016)."," This miRNA can induced by the PAMP  flg22, and it functions to enhance host resistance to virulent Pseudomonas syringae DC3000 by silencing auxin receptors and thereby suppressing auxin signaling (Navarro et al., 2006)."
+" MiRNAs are not only contribute to PTI, but also contribute to ETI by regulating the plant defense relative resistance genes and directly regulating R genes."," Subsequently, studies indicated that miR393 in rice is a stress related miRNA, which is broadly involved in abiotic and biotic stresses (Bian et al., 2012; Campo et al., 2013; Xia et al., 2012)."
+" For example, SNC1 as a R genes was up regulated in ago1 and dcl4 mutants(Yi and Richards, 2007)."," Another 16 miRNAs, including miR160a are induced by flg22 treatment."
+" The expression of miR482 is up regulated by Pst DC3000 but failed by Pst DC3000 hrcc-(Shivaprasad et al., 2012), future study revealed that miR482 in cotton target exceed 10% of R genes, when infected by pathogen <SPECIES>, miR482 was down regulated and R genes were up regulate in cotto n(Zhu et al., 2013)."," By contrast, a distinct set of 11 miRNAs, including miR398b and miR773, are down regulated by flg22 treatment (Li et al., 2010a)."
+" In Arabidopsis, miR472 involved in both PTI and ETI by targets RPS5 R genes(Boccara et al., 2014)."," Overexpression of both miR773 and miR398b was demonstrated to suppress the induction of callose deposition by flg22 or bacteria treatment (Li et al., 2010a)."
+Amount of miRNAs were involved in <SPECIES> and rice iteraction.,"      With regard to bacterial pathogens, an interesting study found that miR863-3p can target both positive and negative regulators of immunity  by fine tuning the amplitude and timing of their expression."
+" MiR528 and miR1879 were down regulated when treatment with rice blast, and lead to up regulation of control oxidative stress genes (Baldrich et al., 2015)."," miR863-3p negatively regulated an atypical receptor-like pseudokinase1 (ARLPK1) called ARLPK2 and SE at the early and late infection timepoints, respectively (Niu et al., 2016)."
+" Alike miR393b and miR156, both of them were down regulated by rice blast treatment(Campo et al., 2013)."," miRNAs not only contribute to PTI, but they also contribute to ETI by regulating the plant defense-related genes and even through the direct regulation of R genes."
+" In addition, miR7695 worked as a positive regulator against rice blast though down regulate Natural resistance-associated macrophage protein 6 (Nramp6)(Campo et al., 2013)."," For example, SNC1  was up regulated in ago1 and dcl4 mutants[2] (Yi and Richards, 2007)."
+" The latest study identi?ed that miR169 work as a negative regulator against the blast fungal <SPECIES> by repressing expression of its target genes that belong to the NF-YA family (Li et al., 2017)."," Further, while the expression of miR482 is up regulated by Pst DC3000,  the Pst DC3000 hrcc- mutant failed to induce this upregulation (Shivaprasad et al., 2012), indicating that intracellular effectors likely influence this miRNA’s expression."
+" MiR166k/miR166h, belong to miR166 family that functions as a positive regulator against <SPECIES>(Salvador-Guirao et al., 2018).", It was later revealed that the various targets of miR482 in cotton exceeds 10% of R genes.
+" In the previous study, we identified exceed 30 miRNAs that involute in rice immunity of that against <SPECIES> (Li et al., 2014)."," However, when infected by the fungal pathogen Verticillium dahliae, miR482 was significantly downregulated leading to a corresponding upregulation of its target R genes (Zhu et al., 2013)."
+" In this group miRNAs, miR167d was greatly differently accumulated in resistant materials and sensitive materials after infected <SPECIES>.",      Several miRNAs have been implicated in the interaction between rice and <SPECIES>.
+"Based on the analysis the miR167 sequence and phylogenetic relationships assay, the result indicted that all the miR167-5p don’t show variation."," For example, the host miRNAs miR528 and miR1879 were downregulated when treated with rice blast, leading to the upregulation of  oxidative stress genes (Baldrich et al., 2015)."
+" But, the miR167-3p was opposite, shows higher variability(De-la-Peña et al., 2017)."," Similarly, miR393b and miR156 were both downregulated by rice blast treatment (Campo et al., 2013)."
+" Based on the previously study, Overexpression of miR167 in Arabidopsis led to inhibited somatic embryo (SE) formation by reducing the auxin response factor 6 (ARF6) and ARF8 expression(Su et al., 2016)."," In addition, miR7695 worked as a susceptibility factor  against rice blast through the downregulation of Natural resistance-associated macrophage protein 6 (Nramp6) (Campo et al., 2013)."
+ ARF6 and ARF8 are the target of miR167 that regulate Arabidopsis adventitious rooting.," Very recently it was revealed that miR169 works as a negative regulator against the blast fungal <SPECIES> by repressing the expression of its target genes  in the NF-YA family (Li et al., 2017)."
+" Whereas, ARF17 is a target of miR160 and acts as a negative regulator.(Gutierrez et al., 2009; Gutierrez et al., 2012).","Two miRNAs, miR166k/miR166h, belong to miR166 family which functions as a positive regulator agains[3]t <SPECIES> (Salvador-Guirao et al., 2018)."
+" Meanwhile, ARF6 and ARF8 also regulate gynoecium and stamen maturation, and promote jasmonic acid (JA) production."," In the previous study, we identified exceed 30 miRNAs that regulate rice immunity to <SPECIES> (Li et al., 2014)."
+" In the arf6 and arf8 double mutants, the flowers are abnormal growth and numbers of development-related genes reduce expression (Nagpal et al., 2005; Wu et al., 2006)."," In this group miRNAs, miR167d showed significant differences in accumulation in resistant cultivars relative to susceptible cultivars infected by <SPECIES>."
+To investigate the role of miR167d in rice immunity against <SPECIES>.," Therefore, further investigations into the possible immune regulatory roles of miR167d  are clearly warranted."
+" First, we examined the expression pattern in susceptible material LTH and the resistant material IRBLkm-Ts by inoculate <SPECIES> strain Guy11.","      Based on the sequence analysis the miR167 sequence and phylogenetic relationships assay, the result indicated that all the miR167-5p [4]don’t show variation."
+" Then, we obtained the overexpressing transgenic rice lines of miR167d and its target mimicry (MIM167d), following by exam the miR167d target genes expression in transgenic lines and in susceptible/resistant materials."," But, the miR167-3p was opposite, shows higher variabilit[5]y(De-la-Peña et al., 2017)."
+ We predicted that the ARFs and candidate R gene might act as a positive regulators in rice immunity.," Previously, overexpression of miR167 in Arabidopsis was demonstrated to inhibit somatic embryogenesis (SE)  by reducing the expression of auxin response factor 6 (ARF6) and ARF8  (Su et al., 2016)."
+"All the plants used in this research include: a susceptible line LTH and a resistant monogenic line IRBLkm-Ts, the indica accession Kasalath was used for genetic transformation, and the transgenic lines overexpressing miR167d and mimicry of miR167d ware also in the background of Kasalath.", ARF6 and ARF8 are both miR167 targets which regulate adventitious root development in Arabidopsis.
+ All these rice plants were planted in an artificial climate chamber at 26? and 80% humidity under the 12 hours light and 12 hours dark conditions.," By contrast, ARF17 is a target of miR160, and acts as a negative regulator of adventitious root formation in Arabidopsis (Gutierrez et al., 2009; Gutierrez et al., 2012)."
+"To generate over-expression transgenic plants, genomic sequences from 470 bp upstream to 529bp downstream of osa-miR167d was amplified from Kasalath (KAS) total genomic DNA with primers miR167d-kpn1-F and miR167d-spe1-R (Supplementary Table 1), and the PCR products was cloned into the binary vector 35S-pCAMBIA1300 at KpnI and SalI sites, generating in the overexpression construct, named p35S:miR167d."," Meanwhile, ARF6 and ARF8 also regulate gynoecium and stamen maturation, and promote jasmonic acid (JA) production."
+" To generate target mimicry transgenic plants, we utilized the gene IPS1 (INDUCED BY PHOSPHATE STARVATION1) in Arabidopsis that as a skeletal structure, this gene contains a mismatched loop at the miR399 cleavage site."," In the arf6 arf8 double mutant, there is an abnormal floral development phenotype and several development-related genes are reduced in expression (Nagpal et al., 2005; Wu et al., 2006)."
+" Therefore, target mimicry sequence of miR167d was inserted into IPS1 gene to substitute the miR399 target site with primers IPS1-KpnI-F, IPS1-SpeI-R, MIM167d-IPS1-BamHI/Bgl?-F and MIM167d-IPS1-BamHI/Bgl?-R by overlap PCR (Supplementary Table 1), and cloned into the 35S-pCAMBIA1300 vector at the KpnI and SalI site, generating in the mimicry construct, named p35S:MIM167d.",To investigate the role of miR167d in rice immunity against <SPECIES> we examined the expression pattern in the susceptible cultivar  LTH and the resistant cultivar IRBLkm-Ts by inoculating both with the <SPECIES> strain Guy11.
+" Both of these two construct were transformed into Kasalath background via Agrobacterium strain GV3101 mediated transformation and all the transgenic plants were screened by the solution contained 0.1 mM 6-BA and 30 mg/L hygromycin as previously described(Li et al., 2014)."," Next, we obtained  transgenic rice lines overexpressing miR167d and its target mimic (MIM167d)."
+" Finally, we obtained 23 overexpression lines of p35S:miR167d (named OX167d) and 15 mimicry lines of p35S:MIM167d (named MIM167d).",  After examining the expression of the target genes of miR167d in transgenic lines and in both the susceptible and resistant cultivars .
+" In order to confirm that the miR167d repress the target gene, we expressed the target sequence from the target gene tagged by eYFP, the target sequence of Os4g57610 was obtained using the gene specific primers (Supplementary Table S1), we also designed a mutant sequence based on the target sequence and acted as a control.", We predicted that the target ARFs and candidate R genes might act as positive regulators in rice immunity.
+ All the fragments were fused to N-terminus of eYFP and inserted into Kpn? site of binary vector Pcambia1300.,The plants used in this research include: a susceptible line (LTH) and a resistant monogenic line (IRBLkm-Ts).
+" Then Agrobacterium strain GV3101 was used as a transient expression assay in <SPECIES>(Huang et al., 2014)."," The indica accession Kasalath was used for genetic transformation, and the transgenic lines overexpressing miR167d and its mimic (miR167d) were also in the Kasalath background."
+"In this study, we used four <SPECIES> strains, Zhong8-10-14(GFP), Guy11, NC-10 and NC-34.", All these lines were planted in an climate controlled growth chamber at 26? and 80% humidity with a 12 hours light/dark cycle.
+ All these <SPECIES> stains were put at 28? in complete medium under the 12 h light and 12 h dark condition for make spores.,To generate transgenic plants overexpressing the miRNAs of interest the following procedures were followed.
+" After two weeks, collected the spores and adjusted the concentration to 5*105 spores per ml for spray inoculation and punch inoculation on the seeding with three leaves."," The genomic sequences from 470 bp upstream to 529bp downstream of osa-miR167d were amplified from Kasalath (KAS) total genomic DNA with primers miR167d-kpn1-F and miR167d-spe1-R (Supplementary Table 1), and the PCR products were cloned into the binary vector 35S-pCAMBIA1300 at KpnI and SalI sites, generating the overexpression construct, designated p35S:miR167d."
+" T3 generation seeding of miR167d and MIM167d transgenic lines were used for spray inoculation, at the fifth day after inoculation, the relative fungal biomass was detected using the DNA level of Pot2 in <SPECIES> compare with the rice ubiquitin DNA level by qRT-PCR and the disease phenotypes were recorded on the leaves, meanwhile wild type plant Kasalath were used as control."," To generate target mimicry transgenic plants, we utilized the gene IPS1 (INDUCED BY PHOSPHATE STARVATION1) in Arabidopsis as a skeletal structure."
+" For punch inoculation, leaves from 3 weeks old transgenic plants were slightly punched with tips and dropped 5 µL spore suspension (5*105 spores per ml) to the wound."," This gene contains a mismatched loop at the miR399 cleavage site, and therefore the target mimic sequence of miR167d was inserted into the IPS1 gene to substitute the miR399 target site with primers IPS1-KpnI-F, IPS1-SpeI-R, MIM167d-IPS1-BamHI/Bgl?-F and MIM167d-IPS1-BamHI/Bgl?-R by overlapping PCR (Supplementary Table 1), and cloned into the 35S-pCAMBIA1300 vector at the KpnI and SalI site, generating in the mimicry construct, designated p35S:MIM167d."
+ Disease spot was recorded at 5dpi.," Both of these constructs were transformed into the Kasalath background via Agrobacterium strain GV3101 mediated transformation, and all the transgenic plants were screened  by hygromycin resistance using a solution containing 0.1 mM 6-BA and 30 mg/L hygromycin as previously described (Li et al., 2014)."
+" In order to observe the infection process of the rice blast, GFP tagged <SPECIES> strain Zhong8-10-14 was used, injected the spore suspension to the leaf sheaths as described previously(Li et al., 2017), put the leaf sheaths in the petri dish and keep high moisture, then excised the leaf sheaths from the inoculated leaf sheaths and analyzed by Zeiss fluorescence microscope (Zeiss imager A2) at 2, 12, 24, 36, 48 hpi, respectively."," Finally, we obtained 23 overexpression lines of p35S:miR167d (named OX167d) and 15 mimicry lines of p35S:MIM167d (named MIM167d)."
+"The seeding with three leaves were sprayed with the <SPECIES> spore suspensions (5*105 spores per ml) and sprayed the H2O as mock, then collected the samples at 0, 12, 24, 48 hpi, Kasalath act as a control for miR167d and MIM167d transgenic plants."," In order to confirm that miR167d represses the target gene as expected, we expressed the target sequence from the target gene tagged by eYFP."
+" For target gene expression level examination, Kasalath also used as a control.", The target sequence of Os4g57610 was obtained using the gene specific primers (Supplementary Table S1).
+" Total plants RNA was extracted using TRIzol (Invitrogen) from the samples, flowing by reverse first strain cDNA using ReverTra Ace® qPCR RT Master Mix with gDNA Remover (TOYOBO).", We also designed a mutant sequence based on the target sequence to act as a control.
+" To test the miRNA level of miR167d, using miScript Plant RT Kit and miScript SYBR® Green PCR Kit (Invitrogen) and based on the manufacturer’s instructions.", All the fragments were fused to N-terminus of eYFP and inserted into the KpnI site of the binary vector pCAMBIA1300.
+" qRT-PCR was carried out using specific primers (Supplementary Table 1 ) and QuantiTect SYBR® Green PCR Kits (Invitrogen), snRNA U6 used as internal reference for detection miR167d level."," Additionally, the Agrobacterium strain GV3101 was used to perform transient expression assays in <SPECIES>(Huang et al., 2014)."
+ All this dates are determined by a one-way ANOVA.,"In this study, we used four <SPECIES> strains, Zhong8-10-14(GFP), Guy11, NC-10 and NC-34."
+" To detect the JA content, enzyme-linked immunosorbent assay (ELISA) was carried out as previously reported (Liao et al., 2018; Teng et al., 2006)."," To make spores, each <SPECIES> strain was grown at 28? in complete medium under  a 12 hour light/dark cycle."
+"The expression plasmids were transferred to Agrobacterium strain GV3101, then incubated on the sold LB media contained kanamycin (50 µg/mL), rifampin (50 µg/mL) and  at 28? for two days, selected monoclonal colony to liquid LB media also contained the corresponding antibiotics and incubated at 28?for overnight, collected the bacteria using the centrifuge at 4000rpm for 5 min and re-suspended in a solution containing 10 mM MgCl2, 10 mM MES, 100 µM acetosyringone."," After two weeks, spores were collected adjusted to a concentration of  5*105 spores/ml for spray inoculation and punch inoculation on juvenile rice (3 leaf stage)."
+ The Agrobacteria contain the expression plasmid were injected into <SPECIES> leaves for transient expression analysis., The T3 generation seedlings of miR167d and MIM167d transgenic lines were used for spray inoculation.
+"To determine whether miR167d is differentially expression after infected <SPECIES>, we preformed the qRT-PCR assay to examine the expression pattern in susceptible line LTH and a resistant monogenic line IRBLkm-Ts that contains the R gene Pi-km and high resistance to <SPECIES>(Tsunematsu et al., 2000; Zhi-Xue et al., 2017)."," At the fifth day after inoculation, the relative fungal biomass was measured using using the DNA amount of Pot2 in <SPECIES> relative to the rice ubiquitin DNA amount measured by qRT-PCR."
+" LTH was used as a susceptible reference, because no major R gene for <SPECIES> has been identified in LTH and highly susceptible to rice blast(Tsunematsu et al., 2000)."," Foliar disease phenotypes were recorded, and the wild type Kasalath lines were used as control."
+" Firstly, we confirmed the resistance phenotypes in LTH and IRBLkm-Ts by inoculating the <SPECIES> strain Guy11 on the seeding of three leaves."," For punch inoculation, leaves from 3 weeks old transgenic plants were slightly punched with tips and before 5 µL of spore suspension (5*105 spores per ml) was dropped onto the wound."
+" LTH showed a highly susceptible phenotype, but IRBLkm-Ts was more resistance and only few small lesions were found (Figure 1A).", Disease spot progression was recorded at 5dpi.
+ Then followed by time course assay to check the expression of miR167d in LTH and IRBLkm-Ts by using qRT-PCR.," In order to observe the infection process of rice blast, a GFP tagged <SPECIES> strain Zhong8-10-14 spores suspension was injected into the leaf sheaths as described previously (Li et al., 2017)."
+" The result showed that miR167d was reduced expression at the 12 and 24 hpi, higher at 48 hpi in LTH."," Subsequently, the leaf sheaths were placed in petri dishes to retain moisture and excised for microscopy and analysis by Zeiss fluorescence microscope  (Zeiss imager A2) at 2, 12, 24, 36, 48 hpi, respectively."
+" However, miR167d was reduced expression at 12, 24 and 48 hpi in IRBLkm-Ts (Figure 1B).",Juvenile rice seedlings at the three leaf stage were sprayed with the <SPECIES> spore suspension spore suspension (5*105 spores per ml).
+"As miR167d was effected by <SPECIES>, thus it is response to study the integrative role of miR167d in rice against rice blast.", Water was used as a mock in this spray inoculation.
+" Although some of the target genes of miR167d belongs to ARFs family, and in the previous research, ARFs effected the growth and develop of plant, maybe AUXIN also have the relevant to rice immunity."," Samples were collected at 0, 12, 24, 48 hpi, and Kasalath acted as a control for miR167d and MIM167d transgenic plants."
+" In this station, we constructed the rice transgenic plants that overexpression miR167d in the Kasalath background."," For target gene expression level examination, Kasalath was also used as a wild-type control."
+" Finally, we identified two independent lines that have a high miR167d accumulation and used for resistance analysis (Figure 2C).", Total plant RNA was extracted using TRIzol (Invitrogen) kits.
+ The seeding with three leaves were used and separately spray with three different <SPECIES> strains with the different virulent., cDNA was produced using ReverTra Ace® qPCR RT Master Mix with gDNA Remover (TOYOBO).
+" While NC-34 and NC-10 are the high pathogenicity strains to Kasalath, Guy11 is a little weak virulent strains to Kasalath."," To test the miRNA level of miR167d, we used the miScript Plant RT Kit and the miScript SYBR® Green PCR Kit (Invitrogen) based on the manufacturer’s instructions."
+ The disease phenotypes were collected at 5 days after inoculate., qRT-PCR was carried out using specific primers (Supplementary Table 1 ) and QuantiTect SYBR® Green PCR Kits (Invitrogen).
+" As our respected, the overexpression lines showed more and larger disease lesion compare with the control plants by using NC-34 <SPECIES> strain with two different methods (Figure 2A), it indicating that more susceptibility by overexpression the miR167d.", snRNA U6 used as internal reference for detection of the miR167d level.
+" Where after, the fungal growth were performed by quantitative analysis.", All data was analyzed by a one-way ANOVA.
+ Then the fungal growth was higher compare with control plants (Figure 2B).," To detect the JA content, enzyme-linked immunosorbent assays (ELISAs) were carried out as previously reported (Liao et al., 2018; Teng et al., 2006)."
+" After that, we used another method to detected the resistant, as showed in Figure 2D and E, the lesion is bigger and fungal growth was higher compare with the control plant by using the paunch menthes.","The expression plasmids were transferred to Agrobacterium strain GV3101, then incubated on  solid LB media containing kanamycin (50 µg/mL) and/or rifampicin (50 µg/mL)  at 28? for two days."
+ Then we check another <SPECIES> strains Guy11 and NC-10.," Single colonies were transferred to liquid LB media also containing the corresponding antibiotics and incubated at 28°C overnight.Bacteria were harvested by centrifugation at 4000rpm for 5 min and re-suspended in a solution containing 10 mM MgCl2, 10 mM MES, and 100 µM acetosyringone."
+" As the same result, when inoculated with NC-10 in was showed more susceptible phenotype (Figure S1A), and the fungal growth was higher than control plant (Figure S1A).", The Agrobacterium containing the expression plasmid were injected into <SPECIES>leaves for transient expression analysis.
+" We got the same result that inoculated the Guy11 (Figure S1C, D)."," The injected leaves were examined at 48 hpi using confocal microscopy (Nikon A1) as previously reported (Huang et al., 2014)."
+ These date demonstrate that overexpressing miR167d led the susceptibility to the <SPECIES> in Kasalath.," Simultaneously, a western blot assay was performed as previously described (Li et al., 2017)."
+"To investigate why overexpression of the miR167d result in more susceptibility, we examined expression levels of some typical defense related genes, and cell death related genes, and also used the microscopic to analysis the infection process of <SPECIES>."," Briefly, protein from 100 mg fresh leaves was extracted  in extraction buffer containing 0.25 M Tris-HCL (pH6.8), 4% SDS, 0.1% Bromophenol blue, and 40% glycerol."
+" Firstly, seedlings with three leaves were used to examine the defense related genes by qRT-PCR, including KS4, PAL, NAC4, PR1a, PBZ1 and PR10b."," The total protein was separated by 12% SDS-PAGE, and transferred to a PVDF membrane (Millipore) using Trans-Blot Turbo (BIO-RAD)."
+" KS4 takes part in the phytoalexins momilactones A and B biosynthesis, NAC4 is involved in plant cell death and higher expression in spl11 at the lesion forming period(Yin et al., 2000), and it also act as a basal defense gene which can be earlier induced (Park et al., 2012).","To determine whether miR167d was differentially expressed after infection <SPECIES>, we performed qRT-PCR  to examine the expression pattern in the susceptible line LTH and the resistant monogenic line IRBLkm-Ts containing the R gene Pi-km and relative resistance to <SPECIES> (Tsunematsu et al., 2000; Zhi-Xue et al., 2017)."
+" PBZ1, PR1a and PR10b were pathogenesis genes (Shirsekar et al., 2014)."," LTH was used as a susceptible reference because no major R gene for <SPECIES> has been identified in LTH and highly susceptible to rice blast (Tsunematsu et al., 2000)."
+" PAL is involved in phenylpropanoid pathway and PAL pathway is important for SA biosynthesis(Chen et al., 2009).", We confirmed the resistance phenotypes in LTH and IRBLkm-Ts by inoculating the <SPECIES> strain Guy11 on the seedling of three leaves.
+" The expression patterns of these genes can be divided into two categories: KS4, PBZ1 and NAC4 were significantly induced in the control plants at 24 and 48 h after inoculated <SPECIES> (Figure 3)."," [6]LTH showed a highly susceptible phenotype, but IRBLkm-Ts appeared  more resistant ; only a few small lesions were found (Figure 1A)."
+" However, PAL, PR1a, PR10b were increased along with the 12, 24 and 48 hpi."," The results of our miR167d expression time course indicated that in LTH, miR167d was reduced in expression at the 12 and 24 hpi timepoints, but it was elevated at 48 hpi.."
+" To the contrary, in the transgenic plants which overexpression miR167d, all of these genes were lower at the corresponding time points, although these genes were also induced at some time points."," However, miR167d was reduced in expression at 12, 24 and 48 hpi in IRBLkm-Ts (Figure 1B)."
+" At the same time, we measured the basal level of JA in the seeding with three leaves, it indicted that JA level is higher in the wildtype plant (Figure S2A).","As miR167d expression was influenced by <SPECIES> infection,  the role of miR167d in rice against rice blast is an important question."
+"Furthermore, we conducted the infection process assay of <SPECIES> strain Zhong8-10-14 tagged by GFP on the leaf sheath of the control and miR167d overexpression transgenic plants by Zeiss fluorescence microscope."," Some of the target genes of miR167d are ARFs  and as ARFs regulate  growth and development  through auxin signalling, we hypothesized that auxin may play a role in rice immunity to <SPECIES>."
+" At the 6 and 12 hpi, there were no significant difference between wild and transgenic plants (Figure 4)."," To test this, we constructed rice transgenic plants that overexpress miR167d in the Kasalath background."
+" At 24 hpi, more than 90% spores generated the invasive hyphae and infected the first infected cell (Figure 4B)."," We identified two independent lines with elevated miR167d accumulation, and these were used for resistance analysis (Figure 2C)."
+ But only 70% invasive hyphae were formed in the wild plants (Figure 4B)., Juvenile rice plants at the three leaf stage were used and separately sprayed with three different <SPECIES> strains with different virulence[7].
+" As time goes on, at 36 and 48 hpi, the hyphae invaded more cells in transgenic plant compare with the control plants (Figure 4)."," While NC-34 and NC-10 are the high pathogenicity strains on Kasalath, Guy11 is less virulent strain to Kasalath."
+"In the previous study, the target genes of miR167d has been identified by degradome sequencing (Li et al., 2010b; Wu et al., 2009).","  As expected, the overexpression lines showed more and larger disease lesions compared with the control plants infected with NC-34  using two different methods (punch and spray inoculation) (Figure 2A)."
+" They are encoded the Auxin response factor (ARFs), Retinol dehydrogenase 14, Glutamate receptor 3.4 precursor and NBS-LRR disease resistance protein, respectively.", More fungal biomass was also accumulated in miR167d overexpression lines (Figure 2B).
+" As we know, the role of miRNA is to suppress its target genes by transcriptional and translational level.", This indicates  that miR167d overexpression may promote susceptibility to <SPECIES> NC-10 and Guy11 were also observed to cause greater disease severity in the overexpression lines than wild-type as measured by lesion production and fungal biomass..
+ So we conjectured that the mRNA level of the target genes should be down expressed in the miR167d overexpression lines.,"To investigate why overexpression of miR167d results in susceptibility, we examined the expression levels of typical defense-related and cell death related genes."
+" For this purpose, we examined the expression level of the target genes in the miR167d overexpression plants."," Further, we performed microscopic to analysis to observe the infection process of <SPECIES> in the overexpression line relative to wild-type."
+" As our expected, the mRNA level of 6 target genes, including Os02g06910 (OsARF6), Os07g29820 (NBS-LRR disease resistance protein), Os07g33790 (glutamate receptor 3.4 precursor), Os12g41950 (OsARF25), Os04g57610 (OsARF12), Os06g46410 (OsARF17), were significantly repressed in the overexpression lines, and the Os06g03830 (retinol dehydrogenase) was repressed in one line, but not significantly repressed in the other line (Figure 5A)."," qRT-PCR expression analysis revealed that the defense and cell death related genes KS4, PAL, NAC4, PR1a, PBZ1 and PR10b are typically expressed with two discernable patterns in wild-type controls.Error! Hyperlink reference not valid.Error! Hyperlink reference not valid.Error! Hyperlink reference not valid.Error! Hyperlink reference not valid."
+ We also examined the protein level of Os04g57610 by a Yellow Fluorescent protein (YFP) based reporter system.," First, KS4, PBZ1, and NAC4 aresignificantly induced in the control plants at 24 and 48 h after  <SPECIES> inoculation (Figure 3)."
+ We germinated a construct that expressing the target site of miR167d in the Os04g57610 with YFP.," Second, PAL, PR1a, PR10b showed elevated expression levels at 12, 24 and 48 hpi."
+" Next, TargetOs04g57610-YFP was expressed along or co-expressed with miR167d in <SPECIES>, then we examined the fluorescence intensity by the microscope at 48 h after injection, at the same time, the protein level was compared by western blotting assay."," However, in the miR167d overexpression line, all of these genes were lower at the corresponding time points, although these genes were also induced at some time points[8]."
+" As our expected, the fluorescence intensity became weaker and weaker follow by the increasing concentration of agrobacterium contain miR167d in the target site of Os04g57610 with YFP (TSOs04g57610-YFP) (Figure 5B).","  We also measured the basal level of JA in these plants, and our results indicate that JA accumulation was higher in the wild-type control (Figure S2A)."
+ It was the same result the protein level (Figure 5C).,Observations of the <SPECIES> infection process were carried out using the  Zhong8-10-14 strain tagged with GFP.
+" On the contrary, miR167d didn’t affect the intensity of YFP control (MTSOs04g57610-YFP) (Figure 5B, C)."," At the 6 and 12 hpi, there were no significant differences in the hyphal invasiveness of the pathogen between wild and transgenic plants (Figure 4)."
+" In order to further conform the inhibition by miR167d on TSOs04g57610-YFP and whether the MIM167d works, the MIM167d is a mimicry of miR167d, which could trap miR167d just like a sponge, there are three nucleotides insertion at the position 10 and 11 of miR167d, and generate a loop at the mismatched site, so it could inhibited the function of mi167d (Franco-Zorrilla et al., 2007)."," However, at 24 hpi, more than 90% of the spores on the miR167d overexpression lines germinated invasive hyphae and infected the proximal cells (Figure 4B)."
+" When TSOs04g57610-YFP, miR167d and MIM167d were coexpressed, the fluorescence intensity became stronger and stronger and the got the same result in the protein level follow by the increasing concentration of agrobacterium contain MIM167d (Figure 5B, D), but there was no effect on the MTSOs04g57610-YFP, all of these indicated that miR167d could suppress the TSOs04g57610-YFP, but MIM167d could recover that."," By contrast,only 70% invasive hyphae were formed in the wild-type plants (Figure 4B).At 36 and 48 hpi, the hyphae invaded more cells in transgenic plants relative to the controls(Figure 4)."
+" These date show that miR167d could repress the expression of Os04g57610, and MIM167d could repress the miR167d and works very well.","Previously, the target genes of miR167d were identified by degradome sequencing (Li et al., 2010b; Wu et al., 2009)."
+"In order to further investigate the role of the immunity against rice blast caused by miR167d in rice, we generated transgenic plants that overexpression MIM167d.",  We conjectured that the mRNA level of the miR167d target genes should be reduced in the miR167d overexpression lines..
+" Because in the overexpression miR167d transgenic plants, the expression level of miR167d was significantly up regulate and its target genes were significantly repressed, and result in enhanced susceptibility to rice blast."," As expected, the mRNA level of 6 target genes, including Os02g06910 (OsARF6), Os07g29820 (NBS-LRR disease resistance protein), Os07g33790 (glutamate receptor 3.4 precursor), Os12g41950 (OsARF25), Os04g57610 (OsARF12), and Os06g46410 (OsARF17), were significantly repressed in the overexpression lines, and Os06g03830 (retinol dehydrogenase) was repressed in one line, but not significantly repressed in the other line (Figure 5A)."
+" Based on these reach dates, we predicted that overexpression MIM167d will lead to down regular the expression level of miR167d and up regulate its target genes.", We also examined the protein level of Os04g57610 using a YFP-based reporter system.
+" Firstly, we examined the expression level of miR167d in the transgenic plant of MIM167d, as our expected, miR167d was significantly reduced in the MIM167d plants (Figure 6A).", We germinated a construct that expressed the target site of miR167d in OsARF12 with YFP.
+" Following by, we examined the target gene of miR167d, we get the same result, the expression level of all the target genes were significantly up regular in two transgenic plants which contain the MIM167d construct (Figure 6B)."," Next, ARF12-YFP was co-expressed with miR167d in <SPECIES> 48 h after injection, we examined fluorescence intensity and the protein level."
+" Then, we tested the resistance of the transgenic plants against <SPECIES> strains NC-34 using the seeding with three leaves by spray and paunch methods, respectively.",      Both the protein level and the fluorescence intensity TSOsARF12-YFP fusion were observed to be inversely proportional to the concentration of Agrobacterium containing miR167d  (Figure 5B-C).
+" Indeed, the number of lesions spots and the fungal biomass decreased significantly on the leaves from the transgenic plants compare with the control (Figure 7A, B).","  However, miR167d didn’t reduce the intensity of the YFP control (MTS-OsARF12-YFP) (Figure 5B, C)."
+" And we got the same result by paunch method, the lesions area and fungal biomass were also reduced significantly in the transgenic plants (Figure 7C, D)."," In order to further confirm the inhibition by miR167d on TSOsARF12-YFP and whether MIM167d could compete with miR167d , we coexpressed TSOsARF12-YFP with both miR167d and MIM167d."
+" At the same time, we also examined the resistance against another two <SPECIES> strain, as our expected, we got then same result, MIM167d plants revealed enhance resistance against NC-10 and Guy11, and the lesions area and fungal biomass were significantly reduced on the leaves from MIM167d plants."," ,Error! Hyperlink reference not valid."
+" According these datas, up regulator the target genes of miR167d enhanced the resistance against rice blast.","  This co expression resulted in stronger fluorescence intensity and protein level followingthe increasing concentration of Agrobacterium containing MIM167d (Figure 5B, D), but there was no effect on  MTSOsARF12-YFP."
+"Based on the result, we are inquisitive whether the defense related genes and cell death related genes will up regular in the MIM167d transgenic plants.","In order to further investigate the role of miR167d in rice blast immunity, we generated transgenic plants overexpressing MIM167d."
+" Thus, we examined expression levels of some typical pathogen relative genes, and also used the microscopic to analysis the infection process of <SPECIES>.","	First, we examined the expression level of miR167d in the transgenic MIM167d plants."
+" Firstly, seedlings with three leaves were used to examine the defense related genes by qRT-PCR, including KS4, PAL, NAC4, PR1a, PBZ1 and PR10b."," As expected, miR167d was significantly reduced in  MIM167d plants (Figure 6A)."
+" As our expected, all of these genes were significantly up regular after induced by NC-34 at 12, 24 and 48 hpi (Figure 8)."," Next, we examined the target gene expression of miR167d and found the expression level of all the target genes was significantly upregulated in two transgenic plants which contained the MIM167d construct (Figure 6B)."
+ And the expression level reached the highest point at 24 or 48 hpi.," Finally, we tested the resistance of the transgenic plants against the <SPECIES> strains NC-34, NC10, and Guy11 using  both spray and punch inoculation."
+ And the expression level was on a few times or even hundred times in the transgenic plants compare with wild plants.," Indeed, the number of lesions spots and the fungal biomass decreased significantly on the leaves from the transgenic plants compare with the control with all three <SPECIES> strains."
+ Another noteworthy point is that all the pathogen relative genes expression higher at the background level in the MIM167d plants compare with wild type., (Figure 7A-D).
+" Meanwhile, we measured the basal level of JA in the seeding with three leaves, it indicted that JA level is lower in the wildtype plant (Figure S2B)."," We examined the expression level of  rice defense genes in MIM176d transgenic plants, and also used microscopic techniques to observe the infection process of <SPECIES>.."
+"Furthermore, we conducted the infection process assay of <SPECIES> strain Zhong8-10-14 tagged by GFP on the leaf sheath of the control and MIM167d overexpression transgenic plants by Zeiss fluorescence microscope."," As expected, all of these genes were significantly up regulated after infection  by NC-34 at 12, 24 and 48 hpi (Figure 8)."
+" At the 12 hpi, the formed appressoria was more ten percent less than wild type (Figure 9).", Peak expression occurred at either 24 or 48 hpi.
+" At 24 hpi, infection the first cell of <SPECIES> was forty percent higher in the control plant (Figure 9).", The expression of these genes was between 2 and 100 fold higher in the transgenic lines relative to wild-type.
+" At the 36 hpi, <SPECIES> was already infected three cells in wild plant (Figure 9).", Another noteworthy observation was that all the measured defense genes exhibited higher constitutive in the MIM167d plants compare with wild type.
+"Based on the research we have got, all the target genes of miR167d which already detected can be different inhibited by miR167d at transcriptional, and its can be recovered the target mimicry of miR167d."," Meanwhile, we measured the basal level of JA  and found the JA level to be lower in wild-type plants (Figure S2B).Furthermore, at 12 hpi, the number of appressoria formed by Zhong8-10-14 on MIM167d overexpression lines was ten percent less than in wild type (Figure 9)."
+ It is worth to address whether all of the target genes involved in regulated rice immunity against rice blast.," At 24 hpi, infection the first cell of <SPECIES> was forty percent higher in the control plant (Figure 9)."
+" In order to conform this hypothesis, we examined the expression level in LTH and IRBLkm-Ts at a time course upon rice blast inoculation."," At the 36 hpi, <SPECIES> had already penetrated three cells deep into the leaf sheaths of the wild-type plants (Figure 9)."
+" Based on the expression pattern, all the target genes divided into two groups.",We examined the expression level of miR167d target genes in LTH and IRBLkm-Ts at several time points after rice blast inoculation..
+" The first group included one genes, Os12g41950, the expression level of it was increased in TTH after <SPECIES> infection at 12 and 24 hpi, but increased in the IRBLkm-Ts at 48 hpi (Figure 10)."," Os12g41950 expression was increased in TTH after <SPECIES> infection at 12 and 24 hpi, but increased in the IRBLkm-Ts at 48 hpi (Figure 10)."
+" The second group include six genes, Os04g57610, Os06g03830, Os02g06910, Os07g29820, Os07g33790 and Os06g46410, all of them were increased expression both LTH and IRBLkm-Ts, however, the expression level were higher in IRBLkm-Ts compare with that in LTH (Figure 10)."," The remaining six genes, Os04g57610, Os06g03830, Os02g06910, Os07g29820, Os07g33790 and Os06g46410, were all increased expression in both lines."
+" Therefore, all of these target genes of miR167d are varying degrees expressed upon <SPECIES> infection and may act different roles in rice immunity against rice blast.",  However the expression level was measurably higher in IRBLkm-Ts relative to LTH (Figure 10).
+ All of the target genes are likely to contribute the resistance against rice blast in the IRBLkm-Ts.," Therefore, all of these  miR167d target genes are variably expressed upon <SPECIES> infection, and may play diverse roles in rice immunity against rice blast."
+"The miR167d is conserved and has 10 family members in rice, based on the difference in the nucleotide sequence, the miR167d family can classify into two types (Figure S4), the first group is miR167a/b/c, and the other group is miR167d/e/f/g/h/i/j.", All of the target genes are likely to contribute the resistance against rice blast.
+ the big difference between these two groups are that the last nucleotide site is different in the mature miR167.,Error! Hyperlink reference not valid.Error! Hyperlink reference not valid.Error! Hyperlink reference not valid.
+ Predicted target genes of miR167 family were the same.," Here, we provide evidence that miR167d  acts as a negative regulator of immunity to  <SPECIES> in rice through the transcriptional modulation of its target genes."
+" Based on the previous reach by degradome sequencing, there were seven target genes of miR167, among of them, there are four ARFs genes (Os04g57610, Os02g06910, Os06g46410, Os12g41950)(Li et al., 2010b), and all of these genes are involved in the auxin signal pathway.", Our expression analysis revealed that the reduction of miR167d might be a defense response in rice against <SPECIES>.
+ They reserves a high homology at the nucleotide and amino acids sequences by luster method and phylogenetic tree method assay.,  Error! Hyperlink reference not valid.Error! Hyperlink reference not valid.Error! Hyperlink reference not valid.Error! Hyperlink reference not valid.
+" Other target genes, Os06g03830 encode a retinol dehydrogenase 14, Os07g33790 encode a glutamate receptor 3.4 precursor.", There is good reason to hypothesize ARFs in rice controlled by miR167d are indirectly involved in  JA signaling.
+ Os07g29820 encode a NBS-LRR disease resistance protein.," In addition, all of these ARF genes had a higher mRNA level in the IRBLkm-Ts than LTH (Figure 10) and were reduced in expression in the miR167d overexpression lines (Figure 5A) Overexpression of miR167d in Kasalath  produced susceptibility as measured by foliar lesions (Figure 2 and Figure S1), and the defense related genes were downregulated following inoculation by <SPECIES> (Figure 3).he <SPECIES> invasion process also appeared to be accelerated in the overexpression line compare with the wild-type (Figure 4)."
+" In the previous research, miR167 family down regulate its target genes by cleavage the mRNA of target genes, especially the ARFs, which a required for growth and development, regulated the female and male reproduction, flower maturation, and jasmonic acid biosynthesis (Gutierrez et al., 2012; Wu et al., 2006).","      As expected, all the target genes of miR167d were downregulated in the transgenic lines (Figure 5A)."
+" Except the roles of miR167 in the plant growth and development, the function of miR167 in the rice immunity against rice blast is still largely unknown."," Further, the  overexpression the target mimic of miR167d, in transgenic plants showed enhanced resistance against rice blast when measured by both disease phenotype and resistance gene expression (Figure 7, 8, and S3).(F the <SPECIES> invasion process was retarded in the transgenic plant (Figure 9)."
+"In our research, according to the qRT-PCR assay indicated that miR167d was significantly down regulate in the IRBLkm-Ts by inoculating Guy11 since 12 hpi, until to 48 hpi (Figure 1B)."," At the same time, the target genes were upregulated compare with the control plants (Figure 6B)."
+" However, in the susceptible line LTH, the expression level of miR167d was first decreased and then increased (Figure 1B).",Evidence suggests that miR167d  belongs to an ancient miRNA family that is conserved in many higher plants and regulates several developmental functions.
+" At the same time, the target genes of miR16d had a higher expression level in the IRBLkm-Ts compare with LTH (Figure 10)."," In this study, we revealed that miR167d involved in the defense response against  <SPECIES> in rice, and demonstrated that miR167d can act as a negative regulator of immunity to this pathogen."
+" In addition, IRBLkm-Ts developed no visible disease pots, but LTH revealed enhance disease pots on the leaves (Figure 1A).", This research may lead to improvements in the ongoing efforts to improve rice resistance through breeding methods by selecting for miR167d accumulation.
+" So, reduction of miR167d might be a defense response in rice against the <SPECIES>.","Z-XZ, W-MW performed experiment design and project conception."
+"Based on the previous study that miR167d could target for AFRs genes and all the miR167d regulated ARF genes are involved in the auxin signaling and plant growth and development in rice (Liu et al., 2012b)."," Z-XZ, FQ, X-LC, YZ, HW,…conducted the experiments."
+" In Arabidopsis, ARF6 and ARF8 are the targets of miR167, they were involved in the auxin signaling and Arabidopsis adventitious root formation.", Z-XZ and W-MW wrote the manuscript.
+" ARF6 and ARF8 act as a positive regulators and positive control the expression of GH3.3, GH3.5, and GH3.6, result in an increase in JA conjugation, and reduction the free JA (Gutierrez et al., 2012).", W-MW coordinated the overall study and edited the manuscript.
+" However, ARF6 and ARF8 act as a positive regulators of JA biosynthesis at the flower development stage (Nagpal et al., 2005; Tabata et al., 2010).", Pierce A.
+ There are reasons to believe that ARFs in rice controlled by miR167d are indirect involved in the JA signaling.,Supplementary figure S1.
+" In addition, all of these ARF genes had a higher mRNA level in the IRBLkm-Ts than LTH (Figure 10) and down expression in the miR167d overexpression lines (Figure 5A), when overexpression the target mimicry of miR167d, the ARFs were expression higher than wild type plants (Figure 6B).","Using the spray (A, C) method to examine the resistance in overexpression miR167d lines caused by <SPECIES> strain Guy11 and NC-10 respectively."
+" At the same time, Os07g29820 could encode an R protein, and it had the same expression pattern compare with ARFs.", All the diseased leaves were analyzed at 5 dpi.
+" Overexpression miR167d in Kasalath showed more diseases phenotypes on the leaves (Figure 2 and Figure S1), and the defense related genes were down expression by inoculate the <SPECIES> strain (Figure 3), also the <SPECIES> invasion process was accelerated compare with the wild type (Figure 4)."," And the fungal biomass was measured by qRT-PCR (B, D)."
+ And all the target genes of miR167d were down expression in the transgenic line (Figure 5A)., Error bars indicate SD (n=3).
+" Last, when overexpression the target mimicry of miR167d, the transgenic plants showed enhance deference response against rice blast, including the disease phenotype was reduced (Figure 7 and Figure S3), and the defense related genes were up regulate (Figure 8), the <SPECIES> invasion process was reduced in the transgenic plant (Figure 9)."," One-way ANOVA analysis was performed to determine the signi?cance of differences between each time course and the asterisks upon the error bars indicate signi?cant differences (P, 0.01)."
+" At the same time, the target genes were up regulate compare with the control plants (Figure 6B).", The experiments were repeated more than two times with similar results.
+The miR167d is belong to an ancient miR167 family that is conserved in many higher plants with multitudinous developmental functions.,Supplementary figure S2.
+" According to the current study, we reveal that miR167d involved in the defense response against the <SPECIES> in rice, and showed that miR167d act as a negative regulator.",Seedlings with three leaves were used to examine the JA contents.
+"Z-XZ, W-MW performed experiment design and project conception.", (A) Comparison of JA contents in total plants of the miR167d overexpression lines and wild type plants.
+" Z-XZ, FQ, X-LC, YZ, HW,…conducted the experiments.", (B) JA contents in total plants of the MIM167d overexpression lines and wild type plants.
+ Z-XZ and W-MW wrote the manuscript., JA content was tested by enzyme linked immunosorbent assay (ELISA) method.
+Supplementary figure S1., Error bars indicate SD (n=6).
+"Using the spray (A, C) method to examine the resistance in overexpression miR167d lines caused by <SPECIES> strain Guy11 and NC-10 respectively."," One-way ANOVA analysis was performed to determine the signi?cance of differences and the asterisks upon the error bars indicate signi?cant differences (P, 0.01)."
+ All the diseased leaves were analyzed at 5 dpi.,Supplementary figure S3.
+" And the fungal biomass was measured by qRT-PCR (B, D).","Using the spray (A, C) method to examine the resistance in overexpression MIM167d lines caused by <SPECIES> strain Guy11 and NC-10 respectively."
+ Error bars indicate SD (n=3)., All the diseased leaves were analyzed at 5 dpi.
+" One-way ANOVA analysis was performed to determine the signi?cance of differences between each time course and the asterisks upon the error bars indicate signi?cant differences (P, 0.01)."," And the fungal biomass was measured by qRT-PCR (B, D)."
+ The experiments were repeated more than two times with similar results., Error bars indicate SD (n=3).
+Supplementary figure S2.," One-way ANOVA analysis was performed to determine the signi?cance of differences between each time course and the asterisks upon the error bars indicate signi?cant differences (P, 0.01)."
+Seedlings with three leaves were used to examine the JA contents., The experiments were repeated more than two times with similar results.
+ (A) Comparison of JA contents in total plants of the miR167d overexpression lines and wild type plants.,Supplementary figure S4.
+ (B) JA contents in total plants of the MIM167d overexpression lines and wild type plants.,All the miR167d isoforms were obtained from miRbase.
+ JA content was tested by enzyme linked immunosorbent assay (ELISA) method.,Supplement table.
+ Error bars indicate SD (n=6).,"Baldrich, P., Campo, S., Wu, M.T., Liu, T.T., Hsing, Y.I., and San Segundo, B."
+" One-way ANOVA analysis was performed to determine the signi?cance of differences and the asterisks upon the error bars indicate signi?cant differences (P, 0.01).", (2015).
+Supplementary figure S3., MicroRNA-mediated regulation of gene expression in the response of rice plants to fungal elicitors.
+"Using the spray (A, C) method to examine the resistance in overexpression MIM167d lines caused by <SPECIES> strain Guy11 and NC-10 respectively."," RNA Biol 12, 847-863."
+ All the diseased leaves were analyzed at 5 dpi.,"Baulcombe, D."
+" And the fungal biomass was measured by qRT-PCR (B, D).", (2004).
+ Error bars indicate SD (n=3)., RNA silencing in plants.
+" One-way ANOVA analysis was performed to determine the signi?cance of differences between each time course and the asterisks upon the error bars indicate signi?cant differences (P, 0.01)."," Nature 431, 356-363."
+ The experiments were repeated more than two times with similar results.,"Baumberger, N., and Baulcombe, D."
+Supplementary figure S4., (2005).
+All the miR167d isoforms were obtained from miRbase., Arabidopsis ARGONAUTE1 is an RNA Slicer that selectively recruits microRNAs and short interfering RNAs.
+Supplement table.," Proceedings of the National Academy of Sciences of the United States of America 102, 11928-11933."
+"Baldrich, P., Campo, S., Wu, M.T., Liu, T.T., Hsing, Y.I., and San Segundo, B.","Bian, H., Xie, Y., Guo, F., Han, N., Ma, S., Zeng, Z., Wang, J., Yang, Y., and Zhu, M."
+ (2015)., (2012).
+ MicroRNA-mediated regulation of gene expression in the response of rice plants to fungal elicitors., Distinctive expression patterns and roles of the miRNA393/TIR1 homolog module in regulating flag leaf inclination and primary and crown root growth in rice (Oryza sativa).
+" RNA Biol 12, 847-863."," The New phytologist 196, 149-161."
+"Baulcombe, D.","Boccara, M., Sarazin, A., Thiebeauld, O., Jay, F., Voinnet, O., Navarro, L., and Colot, V."
+ (2004)., (2014).
+ RNA silencing in plants., The Arabidopsis miR472-RDR6 silencing pathway modulates PAMP-and effector-triggered immunity through the post-transcriptional control of disease resistance genes.
+" Nature 431, 356-363."," PLoS pathogens 10, e1003883."
+"Baumberger, N., and Baulcombe, D.","Boller, T., and Felix, G."
+ (2005)., (2009).
+ Arabidopsis ARGONAUTE1 is an RNA Slicer that selectively recruits microRNAs and short interfering RNAs., A renaissance of elicitors: perception of microbe-associated molecular patterns and danger signals by pattern-recognition receptors.
+" Proceedings of the National Academy of Sciences of the United States of America 102, 11928-11933."," Annu Rev Plant Biol 60, 379-406."
+"Bian, H., Xie, Y., Guo, F., Han, N., Ma, S., Zeng, Z., Wang, J., Yang, Y., and Zhu, M.","Boller, T., and He, S.Y."
+ (2012)., (2009).
+ Distinctive expression patterns and roles of the miRNA393/TIR1 homolog module in regulating flag leaf inclination and primary and crown root growth in rice (Oryza sativa)., Innate immunity in plants: an arms race between pattern recognition receptors in plants and effectors in microbial pathogens.
+" The New phytologist 196, 149-161."," Science 324, 742-744."
+"Boccara, M., Sarazin, A., Thiebeauld, O., Jay, F., Voinnet, O., Navarro, L., and Colot, V.","Campo, S., Peris?Peris, C., Siré, C., Moreno, A.B., Donaire, L., Zytnicki, M., Notredame, C., Llave, C., and San Segundo, B."
+ (2014)., (2013).
+ The Arabidopsis miR472-RDR6 silencing pathway modulates PAMP-and effector-triggered immunity through the post-transcriptional control of disease resistance genes., Identification of a novel microRNA (miRNA) from rice that targets an alternatively spliced transcript of the Nramp6 (Natural resistance?associated macrophage protein 6) gene involved in pathogen resistance.
+" PLoS pathogens 10, e1003883."," New Phytologist 199, 212-227."
+"Boller, T., and Felix, G.","Chen, X. (2009)."
+ (2009)., Small RNAs and their roles in plant development.
+ A renaissance of elicitors: perception of microbe-associated molecular patterns and danger signals by pattern-recognition receptors.," Annual Review of Cell and Developmental 25, 21-44."
+" Annu Rev Plant Biol 60, 379-406.","Chen, X. (2012)."
+"Boller, T., and He, S.Y.", Small RNAs in development–insights from plants.
+ (2009).," Current opinion in genetics & development 22, 361-367."
+ Innate immunity in plants: an arms race between pattern recognition receptors in plants and effectors in microbial pathogens.,"Chen, Z., Zheng, Z., Huang, J., Lai, Z., and Fan, B."
+" Science 324, 742-744.", (2009).
+"Campo, S., Peris?Peris, C., Siré, C., Moreno, A.B., Donaire, L., Zytnicki, M., Notredame, C., Llave, C., and San Segundo, B.", Biosynthesis of salicylic acid in plants.
+ (2013).," Plant Signal Behav 4, 493-496."
+ Identification of a novel microRNA (miRNA) from rice that targets an alternatively spliced transcript of the Nramp6 (Natural resistance?associated macrophage protein 6) gene involved in pathogen resistance.,"De-la-Peña, C., Nic-Can, G.I., Avilez-Montalvo, J., Cetz-Chel, J.E., and Loyola-Vargas, V.M."
+" New Phytologist 199, 212-227.", (2017).
+"Chen, X.", The Role of MiRNAs in Auxin Signaling and Regulation During Plant Development.
+ (2009).," In Plant Epigenetics (Springer), pp."
+ Small RNAs and their roles in plant development.,"Dou, D., and Zhou, J.M."
+" Annual Review of Cell and Developmental 25, 21-44.", (2012).
+"Chen, X."," Phytopathogen effectors subverting host immunity: different foes, similar battleground."
+ (2012).," Cell Host Microbe 12, 484-495."
+ Small RNAs in development–insights from plants.,"Franco-Zorrilla, J.M., Valli, A., Todesco, M., Mateos, I., Puga, M.I., Rubio-Somoza, I., Leyva, A., Weigel, D., Garcia, J.A., and Paz-Ares, J."
+" Current opinion in genetics & development 22, 361-367.", (2007).
+"Chen, Z., Zheng, Z., Huang, J., Lai, Z., and Fan, B.", Target mimicry provides a new mechanism for regulation of microRNA activity.
+ (2009).," Nat Genet 39, 1033-1037."
+ Biosynthesis of salicylic acid in plants.,"Gutierrez, L., Bussell, J.D., P?curar, D.I., Schwambach, J., P?curar, M., and Bellini, C."
+" Plant Signal Behav 4, 493-496.", (2009).
+"De-la-Peña, C., Nic-Can, G.I., Avilez-Montalvo, J., Cetz-Chel, J.E., and Loyola-Vargas, V.M.", Phenotypic plasticity of adventitious rooting in Arabidopsis is controlled by complex regulation of AUXIN RESPONSE FACTOR transcripts and microRNA abundance.
+ (2017).," The Plant Cell 21, 3119-3132."
+ The Role of MiRNAs in Auxin Signaling and Regulation During Plant Development.,"Gutierrez, L., Mongelard, G., Flokova, K., Pacurar, D.I., Novak, O., Staswick, P., Kowalczyk, M., Pacurar, M., Demailly, H., Geiss, G., et al."
+" In Plant Epigenetics (Springer), pp.", (2012).
+"Dou, D., and Zhou, J.M.", Auxin controls Arabidopsis adventitious root initiation by regulating jasmonic acid homeostasis.
+ (2012).," Plant Cell 24, 2515-2527."
+" Phytopathogen effectors subverting host immunity: different foes, similar battleground.","Holoch, D., and Moazed, D."
+" Cell Host Microbe 12, 484-495.", (2015).
+"Franco-Zorrilla, J.M., Valli, A., Todesco, M., Mateos, I., Puga, M.I., Rubio-Somoza, I., Leyva, A., Weigel, D., Garcia, J.A., and Paz-Ares, J.", RNA-mediated epigenetic regulation of gene expression.
+ (2007).," Nature reviews Genetics 16, 71-84."
+ Target mimicry provides a new mechanism for regulation of microRNA activity.,"Huang, Y.-Y., Shi, Y., Lei, Y., Li, Y., Fan, J., Xu, Y.-J., Ma, X.-F., Zhao, J.-Q., Xiao, S., and Wang, W.-M."
+" Nat Genet 39, 1033-1037.", (2014).
+"Gutierrez, L., Bussell, J.D., P?curar, D.I., Schwambach, J., P?curar, M., and Bellini, C.", Functional identification of multiple nucleocytoplasmic trafficking signals in the broad-spectrum resistance protein RPW8.
+ (2009)., 2.
+ Phenotypic plasticity of adventitious rooting in Arabidopsis is controlled by complex regulation of AUXIN RESPONSE FACTOR transcripts and microRNA abundance.," Planta 239, 455-468."
+" The Plant Cell 21, 3119-3132.","Jones-Rhoades, M.W., Bartel, D.P., and Bartel, B."
+"Gutierrez, L., Mongelard, G., Flokova, K., Pacurar, D.I., Novak, O., Staswick, P., Kowalczyk, M., Pacurar, M., Demailly, H., Geiss, G., et al.", (2006).
+ (2012)., MicroRNAs and their regulatory roles in plants.
+ Auxin controls Arabidopsis adventitious root initiation by regulating jasmonic acid homeostasis.," Annu Rev Plant Biol 57, 19-53."
+" Plant Cell 24, 2515-2527.","Jones, J.D., and Dangl, J.L."
+"Holoch, D., and Moazed, D.", (2006).
+ (2015)., The plant immune system.
+ RNA-mediated epigenetic regulation of gene expression.," Nature 444, 323-329."
+" Nature reviews Genetics 16, 71-84.","Katiyar-Agarwal, S., and Jin, H."
+"Huang, Y.-Y., Shi, Y., Lei, Y., Li, Y., Fan, J., Xu, Y.-J., Ma, X.-F., Zhao, J.-Q., Xiao, S., and Wang, W.-M.", (2010).
+ (2014)., Role of small RNAs in host-microbe interactions.
+ Functional identification of multiple nucleocytoplasmic trafficking signals in the broad-spectrum resistance protein RPW8.," Annu Rev Phytopathol 48, 225-246."
+ 2.,"Khraiwesh, B., Zhu, J.K., and Zhu, J."
+" Planta 239, 455-468.", (2012).
+"Jones-Rhoades, M.W., Bartel, D.P., and Bartel, B.", Role of miRNAs and siRNAs in biotic and abiotic stress responses of plants.
+ (2006).," Biochimica et biophysica acta 1819, 137-148."
+ MicroRNAs and their regulatory roles in plants.,"Khush, G.S."
+" Annu Rev Plant Biol 57, 19-53.", (2005).
+"Jones, J.D., and Dangl, J.L.", What it will take to feed 5.0 billion rice consumers in 2030.
+ (2006).," Plant molecular biology 59, 1-6."
+ The plant immune system.,"Lam, E. (2004)."
+" Nature 444, 323-329."," Controlled cell death, plant survival and development."
+"Katiyar-Agarwal, S., and Jin, H."," Nature reviews Molecular cell biology 5, 305-315."
+ (2010).,"Li, Y., Lu, Y.G., Shi, Y., Wu, L., Xu, Y.J., Huang, F., Guo, X.Y., Zhang, Y., Fan, J., Zhao, J.Q., et al."
+ Role of small RNAs in host-microbe interactions., (2014).
+" Annu Rev Phytopathol 48, 225-246.", Multiple rice microRNAs are involved in immunity against the blast fungus Magnaporthe oryzae.
+"Khraiwesh, B., Zhu, J.K., and Zhu, J."," Plant Physiol 164, 1077-1092."
+ (2012).,"Li, Y., Zhang, Q., Zhang, J., Wu, L., Qi, Y., and Zhou, J.M."
+ Role of miRNAs and siRNAs in biotic and abiotic stress responses of plants., (2010a).
+" Biochimica et biophysica acta 1819, 137-148.", Identification of microRNAs involved in pathogen-associated molecular pattern-triggered plant innate immunity.
+"Khush, G.S."," Plant Physiol 152, 2222-2231."
+ (2005).,"Li, Y., Zhao, S.L., Li, J.L., Hu, X.H., Wang, H., Cao, X.L., Xu, Y.J., Zhao, Z.X., Xiao, Z.Y., Yang, N., et al."
+ What it will take to feed 5.0 billion rice consumers in 2030., (2017).
+" Plant molecular biology 59, 1-6.", Osa-miR169 Negatively Regulates Rice Immunity against the Blast Fungus Magnaporthe oryzae.
+"Lam, E. (2004)."," Front Plant Sci 8, 2."
+" Controlled cell death, plant survival and development.","Li, Y.F., Zheng, Y., Addo-Quaye, C., Zhang, L., Saini, A., Jagadeeswaran, G., Axtell, M.J., Zhang, W., and Sunkar, R."
+" Nature reviews Molecular cell biology 5, 305-315.", (2010b).
+"Li, Y., Lu, Y.G., Shi, Y., Wu, L., Xu, Y.J., Huang, F., Guo, X.Y., Zhang, Y., Fan, J., Zhao, J.Q., et al.", Transcriptome-wide identification of microRNA targets in rice.
+ (2014).," The Plant journal : for cell and molecular biology 62, 742-759."
+ Multiple rice microRNAs are involved in immunity against the blast fungus Magnaporthe oryzae.,"Liao, Y., Bai, Q., Xu, P., Wu, T., Guo, D., Peng, Y., Zhang, H., Deng, X., Chen, X., and Luo, M."
+" Plant Physiol 164, 1077-1092.", (2018).
+"Li, Y., Zhang, Q., Zhang, J., Wu, L., Qi, Y., and Zhou, J.M."," Mutation in Rice Abscisic Acid2 Results in Cell Death, Enhanced Disease-Resistance, Altered Seed Dormancy and Development."
+ (2010a).," Frontiers in plant science 9, 405."
+ Identification of microRNAs involved in pathogen-associated molecular pattern-triggered plant innate immunity.,"Liu, B., Li, J.-F., Ao, Y., Qu, J., Li, Z., Su, J., Zhang, Y., Liu, J., Feng, D., and Qi, K."
+" Plant Physiol 152, 2222-2231.", (2012a).
+"Li, Y., Zhao, S.L., Li, J.L., Hu, X.H., Wang, H., Cao, X.L., Xu, Y.J., Zhao, Z.X., Xiao, Z.Y., Yang, N., et al.", Lysin motif–containing proteins LYP4 and LYP6 play dual roles in peptidoglycan and chitin perception in rice innate immunity.
+ (2017).," The Plant Cell 24, 3406-3419."
+ Osa-miR169 Negatively Regulates Rice Immunity against the Blast Fungus Magnaporthe oryzae.,"Liu, H., Jia, S., Shen, D., Liu, J., Li, J., Zhao, H., Han, S., and Wang, Y."
+" Front Plant Sci 8, 2.", (2012b).
+"Li, Y.F., Zheng, Y., Addo-Quaye, C., Zhang, L., Saini, A., Jagadeeswaran, G., Axtell, M.J., Zhang, W., and Sunkar, R.", Four AUXIN RESPONSE FACTOR genes downregulated by microRNA167 are associated with growth and development in Oryza sativa.
+ (2010b).," Functional Plant Biology 39, 736-744."
+ Transcriptome-wide identification of microRNA targets in rice.,"Liu, Q., and Paroo, Z."
+" The Plant journal : for cell and molecular biology 62, 742-759.", (2010).
+"Liao, Y., Bai, Q., Xu, P., Wu, T., Guo, D., Peng, Y., Zhang, H., Deng, X., Chen, X., and Luo, M.", Biochemical principles of small RNA pathways.
+ (2018).," Annu Rev Biochem 79, 295-319."
+" Mutation in Rice Abscisic Acid2 Results in Cell Death, Enhanced Disease-Resistance, Altered Seed Dormancy and Development.","Liu, W., Liu, J., Ning, Y., Ding, B., Wang, X., Wang, Z., and Wang, G.-L."
+" Frontiers in plant science 9, 405.", (2013).
+"Liu, B., Li, J.-F., Ao, Y., Qu, J., Li, Z., Su, J., Zhang, Y., Liu, J., Feng, D., and Qi, K.", Recent progress in understanding PAMP-and effector-triggered immunity against the rice blast fungus Magnaporthe oryzae.
+ (2012a).," Molecular plant 6, 605-620."
+ Lysin motif–containing proteins LYP4 and LYP6 play dual roles in peptidoglycan and chitin perception in rice innate immunity.,"Liu, W., Liu, J., Triplett, L., Leach, J.E., and Wang, G.-L."
+" The Plant Cell 24, 3406-3419.", (2014).
+"Liu, H., Jia, S., Shen, D., Liu, J., Li, J., Zhao, H., Han, S., and Wang, Y.", Novel insights into rice innate immunity against bacterial and fungal pathogens.
+ (2012b).," Annual review of phytopathology 52, 213-241."
+ Four AUXIN RESPONSE FACTOR genes downregulated by microRNA167 are associated with growth and development in Oryza sativa.,"Liu, W., and Wang, G.-L."
+" Functional Plant Biology 39, 736-744.", (2016).
+"Liu, Q., and Paroo, Z.", Plant innate immunity in rice: a defense against pathogen infection.
+ (2010).," National Science Review 3, 295-308."
+ Biochemical principles of small RNA pathways.,"Nagpal, P., Ellis, C.M., Weber, H., Ploense, S.E., Barkawi, L.S., Guilfoyle, T.J., Hagen, G., Alonso, J.M., Cohen, J.D., Farmer, E.E., et al."
+" Annu Rev Biochem 79, 295-319.", (2005).
+"Liu, W., Liu, J., Ning, Y., Ding, B., Wang, X., Wang, Z., and Wang, G.-L.", Auxin response factors ARF6 and ARF8 promote jasmonic acid production and flower maturation.
+ (2013).," Development 132, 4107-4118."
+ Recent progress in understanding PAMP-and effector-triggered immunity against the rice blast fungus Magnaporthe oryzae.,"Navarro, L., Dunoyer, P., Jay, F., Arnold, B., Dharmasiri, N., Estelle, M., Voinnet, O., and Jones, J.D."
+" Molecular plant 6, 605-620.", (2006).
+"Liu, W., Liu, J., Triplett, L., Leach, J.E., and Wang, G.-L.", A plant miRNA contributes to antibacterial resistance by repressing auxin signaling.
+ (2014).," Science 312, 436-439."
+ Novel insights into rice innate immunity against bacterial and fungal pathogens.,"Niu, D., Lii, Y.E., Chellappan, P., Lei, L., Peralta, K., Jiang, C., Guo, J., Coaker, G., and Jin, H."
+" Annual review of phytopathology 52, 213-241.", (2016).
+"Liu, W., and Wang, G.-L.", miRNA863-3p sequentially targets negative immune regulator ARLPKs and positive regulator SERRATE upon bacterial infection.
+ (2016).," Nature communications 7, 11324."
+ Plant innate immunity in rice: a defense against pathogen infection.,"Park, C.-H., Chen, S., Shirsekar, G., Zhou, B., Khang, C.H., Songkumarn, P., Afzal, A.J., Ning, Y., Wang, R., and Bellizzi, M."
+" National Science Review 3, 295-308.", (2012).
+"Nagpal, P., Ellis, C.M., Weber, H., Ploense, S.E., Barkawi, L.S., Guilfoyle, T.J., Hagen, G., Alonso, J.M., Cohen, J.D., Farmer, E.E., et al.", The Magnaporthe oryzae effector AvrPiz-t targets the RING E3 Ubiquitin Ligase APIP6 to suppress pathogen-associated molecular pattern–triggered immunity in rice.
+ (2005).," The Plant Cell 24, 4748-4762."
+ Auxin response factors ARF6 and ARF8 promote jasmonic acid production and flower maturation.,"Rogers, K., and Chen, X."
+" Development 132, 4107-4118.", (2013).
+"Navarro, L., Dunoyer, P., Jay, F., Arnold, B., Dharmasiri, N., Estelle, M., Voinnet, O., and Jones, J.D."," Biogenesis, turnover, and mode of action of plant microRNAs."
+ (2006).," Plant Cell 25, 2383-2399."
+ A plant miRNA contributes to antibacterial resistance by repressing auxin signaling.,"Salvador-Guirao, R., Hsing, Y.I., and San Segundo, B."
+" Science 312, 436-439.", (2018).
+"Niu, D., Lii, Y.E., Chellappan, P., Lei, L., Peralta, K., Jiang, C., Guo, J., Coaker, G., and Jin, H.", The Polycistronic miR166k-166h Positively Regulates Rice Immunity via Post-transcriptional Control of EIN2.
+ (2016).," Front Plant Sci 9, 337."
+ miRNA863-3p sequentially targets negative immune regulator ARLPKs and positive regulator SERRATE upon bacterial infection.,"Shimizu, T., Nakano, T., Takamizawa, D., Desaki, Y., Ishii-Minami, N., Nishizawa, Y., Minami, E., Okada, K., Yamane, H., Kaku, H., et al."
+" Nature communications 7, 11324.", (2010).
+"Park, C.-H., Chen, S., Shirsekar, G., Zhou, B., Khang, C.H., Songkumarn, P., Afzal, A.J., Ning, Y., Wang, R., and Bellizzi, M."," Two LysM receptor molecules, CEBiP and OsCERK1, cooperatively regulate chitin elicitor signaling in rice."
+ (2012).," The Plant journal : for cell and molecular biology 64, 204-214."
+ The Magnaporthe oryzae effector AvrPiz-t targets the RING E3 Ubiquitin Ligase APIP6 to suppress pathogen-associated molecular pattern–triggered immunity in rice.,"Shirsekar, G.S., Vega-Sanchez, M.E., Bordeos, A., Baraoidan, M., Swisshelm, A., Fan, J., Park, C.H., Leung, H., and Wang, G.L."
+" The Plant Cell 24, 4748-4762.", (2014).
+"Rogers, K., and Chen, X.", Identification and characterization of suppressor mutants of spl11- mediated cell death in rice.
+ (2013).," Molecular plant-microbe interactions : MPMI 27, 528-536."
+" Biogenesis, turnover, and mode of action of plant microRNAs.","Shivaprasad, P.V., Chen, H.-M., Patel, K., Bond, D.M., Santos, B.A., and Baulcombe, D.C."
+" Plant Cell 25, 2383-2399.", (2012).
+"Salvador-Guirao, R., Hsing, Y.I., and San Segundo, B.", A microRNA superfamily regulates nucleotide binding site–leucine-rich repeats and other mRNAs.
+ (2018).," The Plant Cell 24, 859-874."
+ The Polycistronic miR166k-166h Positively Regulates Rice Immunity via Post-transcriptional Control of EIN2.,"Su, Y.H., Liu, Y.B., Zhou, C., Li, X.M., and Zhang, X.S."
+" Front Plant Sci 9, 337.", (2016).
+"Shimizu, T., Nakano, T., Takamizawa, D., Desaki, Y., Ishii-Minami, N., Nishizawa, Y., Minami, E., Okada, K., Yamane, H., Kaku, H., et al.", The microRNA167 controls somatic embryogenesis in Arabidopsis through regulating its target genes ARF6 and ARF8.
+ (2010).," Plant Cell, Tissue and Organ Culture (PCTOC) 124, 405-417."
+" Two LysM receptor molecules, CEBiP and OsCERK1, cooperatively regulate chitin elicitor signaling in rice.","Tabata, R., Ikezaki, M., Fujibe, T., Aida, M., Tian, C.E., Ueno, Y., Yamamoto, K.T., Machida, Y., Nakamura, K., and Ishiguro, S."
+" The Plant journal : for cell and molecular biology 64, 204-214.", (2010).
+"Shirsekar, G.S., Vega-Sanchez, M.E., Bordeos, A., Baraoidan, M., Swisshelm, A., Fan, J., Park, C.H., Leung, H., and Wang, G.L.", Arabidopsis auxin response factor6 and 8 regulate jasmonic acid biosynthesis and floral organ development via repression of class 1 KNOX genes.
+ (2014).," Plant & cell physiology 51, 164-175."
+ Identification and characterization of suppressor mutants of spl11- mediated cell death in rice.,"Teng, N., Wang, J., Chen, T., Wu, X., Wang, Y., and Lin, J."
+" Molecular plant-microbe interactions : MPMI 27, 528-536.", (2006).
+"Shivaprasad, P.V., Chen, H.-M., Patel, K., Bond, D.M., Santos, B.A., and Baulcombe, D.C."," Elevated CO2 induces physiological, biochemical and structural changes in leaves of Arabidopsis thaliana."
+ (2012).," New Phytologist 172, 92-103."
+ A microRNA superfamily regulates nucleotide binding site–leucine-rich repeats and other mRNAs.,"Tsunematsu, H., Yanoria, M.J.T., Ebron, L.A., Hayashi, N., Ando, I., Kato, H., Imbe, T., and Khush, G.S."
+" The Plant Cell 24, 859-874.", (2000).
+"Su, Y.H., Liu, Y.B., Zhou, C., Li, X.M., and Zhang, X.S.", Development of monogenic lines of rice for blast resistance.
+ (2016).," Breeding Science 50, 229-234."
+ The microRNA167 controls somatic embryogenesis in Arabidopsis through regulating its target genes ARF6 and ARF8.,"Wu, L., Zhang, Q., Zhou, H., Ni, F., Wu, X., and Qi, Y."
+" Plant Cell, Tissue and Organ Culture (PCTOC) 124, 405-417.", (2009).
+"Tabata, R., Ikezaki, M., Fujibe, T., Aida, M., Tian, C.E., Ueno, Y., Yamamoto, K.T., Machida, Y., Nakamura, K., and Ishiguro, S.", Rice MicroRNA effector complexes and targets.
+ (2010).," Plant Cell 21, 3421-3435."
+ Arabidopsis auxin response factor6 and 8 regulate jasmonic acid biosynthesis and floral organ development via repression of class 1 KNOX genes.,"Wu, M.-F., Tian, Q., and Reed, J.W."
+" Plant & cell physiology 51, 164-175.", (2006).
+"Teng, N., Wang, J., Chen, T., Wu, X., Wang, Y., and Lin, J."," Arabidopsis microRNA167 controls patterns of ARF6 and ARF8 expression, and regulates both female and male reproduction."
+ (2006).," Development 133, 4211-4218."
+" Elevated CO2 induces physiological, biochemical and structural changes in leaves of Arabidopsis thaliana.","Xia, K., Wang, R., Ou, X., Fang, Z., Tian, C., Duan, J., Wang, Y., and Zhang, M."
+" New Phytologist 172, 92-103.", (2012).
+"Tsunematsu, H., Yanoria, M.J.T., Ebron, L.A., Hayashi, N., Ando, I., Kato, H., Imbe, T., and Khush, G.S."," OsTIR1 and OsAFB2 downregulation via OsmiR393 overexpression leads to more tillers, early flowering and less tolerance to salt and drought in rice."
+ (2000).," PLoS One 7, e30039."
+ Development of monogenic lines of rice for blast resistance.,"Xie, Z., Johansen, L.K., Gustafson, A.M., Kasschau, K.D., Lellis, A.D., Zilberman, D., Jacobsen, S.E., and Carrington, J.C."
+" Breeding Science 50, 229-234.", (2004).
+"Wu, L., Zhang, Q., Zhou, H., Ni, F., Wu, X., and Qi, Y.", Genetic and functional diversification of small RNA pathways in plants.
+ (2009).," PLoS Biol 2, E104."
+ Rice MicroRNA effector complexes and targets.,"Yi, H., and Richards, E.J."
+" Plant Cell 21, 3421-3435.", (2007).
+"Wu, M.-F., Tian, Q., and Reed, J.W.", A cluster of disease resistance genes in Arabidopsis is coordinately regulated by transcriptional activation and RNA silencing.
+ (2006).," The Plant Cell 19, 2929-2939."
+" Arabidopsis microRNA167 controls patterns of ARF6 and ARF8 expression, and regulates both female and male reproduction.","Yin, Z., Chen, J., Zeng, L., Goh, M., Leung, H., Khush, G.S., and Wang, G.L."
+" Development 133, 4211-4218.", (2000).
+"Xia, K., Wang, R., Ou, X., Fang, Z., Tian, C., Duan, J., Wang, Y., and Zhang, M.", Characterizing rice lesion mimic mutants and identifying a mutant with broad-spectrum resistance to rice blast and bacterial blight.
+ (2012).," Molecular plant-microbe interactions : MPMI 13, 869-876."
+" OsTIR1 and OsAFB2 downregulation via OsmiR393 overexpression leads to more tillers, early flowering and less tolerance to salt and drought in rice.","Zhi-Xue, Z., Sheng-Li, Z., Jun, S., Fu, H., Yan, L., Jing, F., and Wen-Ming, W."
+" PLoS One 7, e30039.", (2017).
+"Xie, Z., Johansen, L.K., Gustafson, A.M., Kasschau, K.D., Lellis, A.D., Zilberman, D., Jacobsen, S.E., and Carrington, J.C.", DIFFERENT RICE BLAST RESISTANCE GENES CONTRIBUTING TO THE BROAD-SPECTRUM RESISTANCE IN ELITE MALE STERILE AND RESTORER LINES FOR HYBRID RICE BREEDING.
+ (2004).," Journal of Plant Pathology 99, 121-129."
+ Genetic and functional diversification of small RNA pathways in plants.,"Zhu, Q.H., Fan, L., Liu, Y., Xu, H., Llewellyn, D., and Wilson, I."
+" PLoS Biol 2, E104.", (2013).
+"Yi, H., and Richards, E.J.", miR482 regulation of NBS-LRR defense genes during fungal pathogen infection in cotton.
+ (2007).," PLoS One 8, e84390."
+ A cluster of disease resistance genes in Arabidopsis is coordinately regulated by transcriptional activation and RNA silencing.,Figure 1. The different expression level of MiR167d in susceptible and resistant plants upon <SPECIES> infected.
+" The Plant Cell 19, 2929-2939.",(A) The leaves from susceptible line LTH and resistant line IRBLKm-Ts revealed the different blast disease phenotype.
+"Yin, Z., Chen, J., Zeng, L., Goh, M., Leung, H., Khush, G.S., and Wang, G.L.", The seedlings with three leaves were sprayed with Guy11 spore suspensions and recorded the disease phenotype at 5 dpi.
+ (2000)., (B) The expression level of miR167d in the indicated materials after <SPECIES> infection.
+ Characterizing rice lesion mimic mutants and identifying a mutant with broad-spectrum resistance to rice blast and bacterial blight.," Total RNA were extracted from the samples at the 0, 12, 24, 48 hpi for qRT-PCR assay."
+" Molecular plant-microbe interactions : MPMI 13, 869-876.", The accumulation level of miR167d was normal to untreated plant at 0 hpi.
+"Zhi-Xue, Z., Sheng-Li, Z., Jun, S., Fu, H., Yan, L., Jing, F., and Wen-Ming, W.", SnRNA U6 used as a reference gene.
+ (2017)., Error bars indicate SD (n=3).
+ DIFFERENT RICE BLAST RESISTANCE GENES CONTRIBUTING TO THE BROAD-SPECTRUM RESISTANCE IN ELITE MALE STERILE AND RESTORER LINES FOR HYBRID RICE BREEDING.," One-way ANOVA analysis was performed to determine the signi?cance of differences between each time course and the asterisks upon the error bars indicate signi?cant differences (P, 0.01)."
+" Journal of Plant Pathology 99, 121-129.", The experiments were repeated more than two times with similar results.
+"Zhu, Q.H., Fan, L., Liu, Y., Xu, H., Llewellyn, D., and Wilson, I.",Figure 2. Overexpressing miR167d leaded to more susceptibility to <SPECIES>.
+ (2013).,Using the spray (A) and punched (D) methods to examine the resistance in overexpression miR167d lines caused by <SPECIES> strain NC-34 respectively.
+ miR482 regulation of NBS-LRR defense genes during fungal pathogen infection in cotton., All the diseased leaves were analyzed at 5 dpi.
+" PLoS One 8, e84390."," And the fungal biomass was measured by qRT-PCR (B, E)."
+Figure 1., (C) The accumulation of miR167d in different transgenic lines and normalized to control plants.
+ The different expression level of MiR167d in susceptible and resistant plants upon <SPECIES> infected., SnRNA U6 used as the reference gene.
+(A) The leaves from susceptible line LTH and resistant line IRBLKm-Ts revealed the different blast disease phenotype., Error bars indicate SD (n=3).
+ The seedlings with three leaves were sprayed with Guy11 spore suspensions and recorded the disease phenotype at 5 dpi.," One-way ANOVA analysis was performed to determine the signi?cance of differences between each time course and the asterisks upon the error bars indicate signi?cant differences (P, 0.01)."
+ (B) The expression level of miR167d in the indicated materials after <SPECIES> infection., The experiments were repeated more than two times with similar results.
+" Total RNA were extracted from the samples at the 0, 12, 24, 48 hpi for qRT-PCR assay.",Figure 3. Overexpressing miR167d leads to compromise defense response.
+ The accumulation level of miR167d was normal to untreated plant at 0 hpi.,"The Defense related genes expression pattern were examined by qRT-PCR, all the detected genes were examined by qRT-PCR in miR167d overexpressing lines."
+ SnRNA U6 used as a reference gene., Error bars indicate SD (n=3).
+ Error bars indicate SD (n=3).," One-way ANOVA analysis was performed to determine the signi?cance of differences between each time course and the asterisks upon the error bars indicate signi?cant differences (P, 0.01)."
+" One-way ANOVA analysis was performed to determine the signi?cance of differences between each time course and the asterisks upon the error bars indicate signi?cant differences (P, 0.01).",Figure 4. Overexpression miR167d result in increased <SPECIES> fungal growth.
+ The experiments were repeated more than two times with similar results.,"(A) The infection status of a GFP-tagged <SPECIES> strain was examined by Confocal microscope in overexpression miR167d transgenic lines, and the result was showed in the indicated lines at the different time points."
+Figure 2., (B) Quantification analysis of <SPECIES> infected process in the indicated lines at the different time points.
+ Overexpressing miR167d leaded to more susceptibility to <SPECIES>.," Scale bars, 100 ?m."
+Using the spray (A) and punched (D) methods to examine the resistance in overexpression miR167d lines caused by <SPECIES> strain NC-34 respectively.,Figure 5. The target genes of miR167d were repressed at the transcriptional or translational level.
+ All the diseased leaves were analyzed at 5 dpi.,"(A) Total RNA was extracted from miR167d overexpression lines, and relative expression level of its target genes were examined by qRT-PCR, all the expression level was normalized to control plants."
+" And the fungal biomass was measured by qRT-PCR (B, E).", Error bars indicate SD (n=3).
+ (C) The accumulation of miR167d in different transgenic lines and normalized to control plants.," One-way ANOVA analysis was performed to determine the signi?cance of differences between each time course and the asterisks upon the error bars indicate signi?cant differences (P, 0.01)."
+ SnRNA U6 used as the reference gene.," Western blot assay (B) and microscope images(C, D) reveal that miR167d suppressed the protein accumulation of Os4g57610 and didn’t affected mutant control protein level."
+ Error bars indicate SD (n=3).," The target sequence of Os4g57610 combine with eYFP act as a reporter constructs and the mutant on the target sequence of Os4g57610 act as a control, all of them were transiently expressed respectively or coexpressed with miR167d overexpression construct (C) or/and the miR167d target mimicry MIM167d construct (D) in <SPECIES>leaves by Agrobacterium-mediated transient expression at the specified optical density concentration."
+" One-way ANOVA analysis was performed to determine the signi?cance of differences between each time course and the asterisks upon the error bars indicate signi?cant differences (P, 0.01).", 100 mg fresh leaves that injected Agrobacterium were collected and performed Western blot assay using anti-GFP.
+ The experiments were repeated more than two times with similar results., Rubisco was stained by ponceau and indicated the equal loading.
+Figure 3., The alignments of miR167d and Os4g57610 target sequence (C) and MIM167d with miR167d (D) were following the images respectively.
+ Overexpressing miR167d leads to compromise defense response.," Size bars = 100?m, TS= target sequence, MTS=mutant target sequence."
+"The Defense related genes expression pattern were examined by qRT-PCR, all the detected genes were examined by qRT-PCR in miR167d overexpressing lines.","Figure 6. Overexpression of miR167d target mimicry leaded to its target genes expression higher, but lower of miR167d level."
+ Error bars indicate SD (n=3).,"Total RNA was extracted from positive transgenic plants, and qRT-PCR assay was used to detect the expression level of miR167d (A) and the expression level of its target genes (B)."
+" One-way ANOVA analysis was performed to determine the signi?cance of differences between each time course and the asterisks upon the error bars indicate signi?cant differences (P, 0.01).", All the mRNA level was normalized to control plants.
+Figure 4., Error bars indicate SD (n=3).
+ Overexpression miR167d result in increased <SPECIES> fungal growth.," One-way ANOVA analysis was performed to determine the signi?cance of differences between each time course and the asterisks upon the error bars indicate signi?cant differences (P, 0.01)."
+"(A) The infection status of a GFP-tagged <SPECIES> strain was examined by Confocal microscope in overexpression miR167d transgenic lines, and the result was showed in the indicated lines at the different time points.", The experiments were repeated more than two times with similar results.
+ (B) Quantification analysis of <SPECIES> infected process in the indicated lines at the different time points.,Using the spray (A) and punched (C) methods to examine the resistance in overexpression MIM167d lines caused by <SPECIES> strain NC-34 respectively.
+" Scale bars, 100 ?m.", All the diseased leaves were analyzed at 5 dpi.
+Figure 5.," And the fungal biomass was measured by qRT-PCR (B, D)."
+ The target genes of miR167d were repressed at the transcriptional or translational level., SnRNA U6 used as the reference gene.
+"(A) Total RNA was extracted from miR167d overexpression lines, and relative expression level of its target genes were examined by qRT-PCR, all the expression level was normalized to control plants.", Error bars indicate SD.
+ Error bars indicate SD (n=3).," One-way ANOVA analysis was performed to determine the signi?cance of differences between each time course and the letters upon the error bars indicate signi?cant differences (P, 0.01)."
+" One-way ANOVA analysis was performed to determine the signi?cance of differences between each time course and the asterisks upon the error bars indicate signi?cant differences (P, 0.01).", The experiments were repeated more than two times with similar results.
+" Western blot assay (B) and microscope images(C, D) reveal that miR167d suppressed the protein accumulation of Os4g57610 and didn’t affected mutant control protein level.","The Defense related genes expression pattern were examined by qRT-PCR, all the detected genes were examined by qRT-PCR in MIM167d overexpressing lines."
+" The target sequence of Os4g57610 combine with eYFP act as a reporter constructs and the mutant on the target sequence of Os4g57610 act as a control, all of them were transiently expressed respectively or coexpressed with miR167d overexpression construct (C) or/and the miR167d target mimicry MIM167d construct (D) in <SPECIES> leaves by Agrobacterium-mediated transient expression at the specified optical density concentration.", Error bars indicate SD (n=3).
+ 100 mg fresh leaves that injected Agrobacterium were collected and performed Western blot assay using anti-GFP.," One-way ANOVA analysis was performed to determine the signi?cance of differences between each time course and the asterisks upon the error bars indicate signi?cant differences (P, 0.01)."
+ Rubisco was stained by ponceau and indicated the equal loading.,Figure 9. Expressing of the miR167d target mimicry result in increased <SPECIES> fungal growth.
+ The alignments of miR167d and Os4g57610 target sequence (C) and MIM167d with miR167d (D) were following the images respectively.,"(A) The infection status of a GFP-tagged <SPECIES> strain was examined by Confocal microscope in overexpression MIM167d transgenic lines, and the result was showed in the indicated lines at the different time points."
+" Size bars = 100?m, TS= target sequence, MTS=mutant target sequence.", (B) Quantification analysis of <SPECIES> infected process in the indicated lines at the different time points.
+Figure 6.," Scale bars, 100 ?m."
+" Overexpression of miR167d target mimicry leaded to its target genes expression higher, but lower of miR167d level.",The target genes of miR167d expression pattern were examined by qRT-PCR after infected <SPECIES> in in susceptible line LTH and a resistant monogenic line IRBLkm-Ts.
+"Total RNA was extracted from positive transgenic plants, and qRT-PCR assay was used to detect the expression level of miR167d (A) and the expression level of its target genes (B).", Error bars indicate SD (n=3).
+ All the mRNA level was normalized to control plants.," One-way ANOVA analysis was performed to determine the signi?cance of differences between each time course and the asterisks upon the error bars indicate signi?cant differences (P, 0.01)."
+ Error bars indicate SD (n=3).,I'm not sure what this means.
+" One-way ANOVA analysis was performed to determine the signi?cance of differences between each time course and the asterisks upon the error bars indicate signi?cant differences (P, 0.01).",Unclear what you mean here.
+ The experiments were repeated more than two times with similar results.,The words virulence and pathogencity are very specific terms.
+Figure 7., They both have important meaning.
+Using the spray (A) and punched (C) methods to examine the resistance in overexpression MIM167d lines caused by <SPECIES> strain NC-34 respectively.,n/a
+ All the diseased leaves were analyzed at 5 dpi.,n/a
+" And the fungal biomass was measured by qRT-PCR (B, D).",n/a
+ SnRNA U6 used as the reference gene.,n/a
+ Error bars indicate SD.,n/a
+" One-way ANOVA analysis was performed to determine the signi?cance of differences between each time course and the letters upon the error bars indicate signi?cant differences (P, 0.01).",n/a
+ The experiments were repeated more than two times with similar results.,n/a
+Figure 8.,n/a
+"The Defense related genes expression pattern were examined by qRT-PCR, all the detected genes were examined by qRT-PCR in MIM167d overexpressing lines.",n/a
+ Error bars indicate SD (n=3).,n/a
+" One-way ANOVA analysis was performed to determine the signi?cance of differences between each time course and the asterisks upon the error bars indicate signi?cant differences (P, 0.01).",n/a
+Figure 9.,n/a
+ Expressing of the miR167d target mimicry result in increased <SPECIES> fungal growth.,n/a
+"(A) The infection status of a GFP-tagged <SPECIES> strain was examined by Confocal microscope in overexpression MIM167d transgenic lines, and the result was showed in the indicated lines at the different time points.",n/a
+ (B) Quantification analysis of <SPECIES> infected process in the indicated lines at the different time points.,n/a
+" Scale bars, 100 ?m.",n/a
+Figure 10.,n/a
+The target genes of miR167d expression pattern were examined by qRT-PCR after infected <SPECIES> in in susceptible line LTH and a resistant monogenic line IRBLkm-Ts.,n/a
+ Error bars indicate SD (n=3).,n/a
+" One-way ANOVA analysis was performed to determine the signi?cance of differences between each time course and the asterisks upon the error bars indicate signi?cant differences (P, 0.01).",n/a
