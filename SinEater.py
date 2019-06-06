@@ -5,57 +5,49 @@ from os.path import isfile, join
 
 
 def getDirtyLines():
+    """
+    Gets lines from unedited manuscript(s)
+    """
     dirtyLines = []
-    mypath = '.'
+    mypath = './sineater/' #I changed this based on my filestructure. It can be whatever -- Jim
     pathlist = os.listdir(mypath)
-    files = [f for f in pathlist if isfile(join(mypath, f))]
-    counter = 0
-    while counter < len(files):
-        print(files[counter])
-        if files[counter] == "Dirty1.txt":
-            with open(files[counter]) as f: 
+    #check that items are actually text files
+    files = [f for f in pathlist if isfile(join(mypath, f)) and '.txt' in f]
+    for file in files:
+        print(file)
+        #only select files with dirty in the filename
+        if 'dirty' in file.lower():
+            with open(mypath+file, 'r') as f: 
                 for line in f:
-                    counter2 = 0
-                    counter3 = 0
-                    while counter2 < len(line):
-                        if counter2 > 7:
-                            if (line[counter2-1] + line[counter2]) == ". ":
-                                if line[counter2-3] + line[counter2-2] + line[counter2-1] != " [A-Z].":
-                                    #print(line[counter2:])
-                                    dirtyLines.append(line[counter3:counter2])
-                                    counter3 = counter2
-                        counter2+=1
-        counter+=1
-    #print(dirtyLines)
+                    line = line.strip('\n')
+                    for item in line.split('. '):
+                        if item != '':
+                            dirtyLines.append(item)
     return(dirtyLines)
 
 def getCleanLines():
+    """
+    Gets lines from edited manuscript(s)
+    """
     cleanLines = []
-    mypath = '.'
+    mypath = './sineater/' #I changed this based on my filestructure. It can be whatever -- Jim
     pathlist = os.listdir(mypath)
-    files = [f for f in pathlist if isfile(join(mypath, f))]
-    counter = 0
-    while counter < len(files):
-        print(files[counter])
-        if files[counter] == "Clean1.txt":
-            with open(files[counter]) as f: 
+    #check that items are actually text files
+    files = [f for f in pathlist if isfile(join(mypath, f)) and '.txt' in f]
+    for file in files:
+        print(file)
+        #only select files with clean in the filename
+        if 'clean' in file.lower():
+            with open(mypath+file, 'r') as f: 
                 for line in f:
-                    counter2 = 0
-                    counter3 = 0
-                    while counter2 < len(line):
-                        if counter2 > 10:
-                            if (line[counter2-1] + line[counter2]) == ". ":
-                                if line[counter2-3] + line[counter2-2] + line[counter2-1] != " [A-Z].":
-                                    #print(line[counter2:])
-                                    cleanLines.append(line[counter3:counter2])
-                                    counter3 = counter2
-                        counter2+=1
-        counter+=1
-    #print(cleanLines)
+                    line = line.strip('\n')
+                    for item in line.split('. '):
+                        if item != '':
+                            cleanLines.append(item)
     return(cleanLines)
 
-
-def main():
+#this does the same thing as setting the main function in other languages
+if __name__ == "__main__":
     dirty = getDirtyLines()
     clean = getCleanLines()
 
@@ -70,8 +62,5 @@ def main():
         additioncounter+=1
 
     df = pandas.DataFrame(data={"dirty_lines": dirty, "clean_lines": clean})
-    df.to_csv("./sineatertest1.csv", sep=',',index=False)
+    df.to_csv("./sineatertest2.csv", sep=',',index=False)
     
-
-main()
-
