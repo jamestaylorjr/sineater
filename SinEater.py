@@ -2,6 +2,7 @@
 import pandas
 import os 
 from os.path import isfile, join
+from difflib import SequenceMatcher
 
 
 def getDirtyLines():
@@ -20,8 +21,9 @@ def getDirtyLines():
             with open(mypath+file, 'r') as f: 
                 for line in f:
                     line = line.strip('\n')
+                    line = line.strip('\t')
                     for item in line.split('. '):
-                        if item != '':
+                        if item != '' and '\t' not in item:
                             dirtyLines.append(item)
     return(dirtyLines)
 
@@ -41,8 +43,9 @@ def getCleanLines():
             with open(mypath+file, 'r') as f: 
                 for line in f:
                     line = line.strip('\n')
+                    line = line.strip('\t')
                     for item in line.split('. '):
-                        if item != '':
+                        if item != '' and '\t' not in item:
                             cleanLines.append(item)
     return(cleanLines)
 
@@ -51,16 +54,18 @@ if __name__ == "__main__":
     dirty = getDirtyLines()
     clean = getCleanLines()
 
-    print(dirty)
-    print(clean)
-
     lengthdiff = len(dirty) - len(clean)
+    
     additioncounter = 0
-
     while additioncounter < lengthdiff:
         clean.append("n/a")
         additioncounter+=1
 
-    df = pandas.DataFrame(data={"dirty_lines": dirty, "clean_lines": clean})
+    comparison = []
+    for d, c in zip(dirty, clean):
+        comparison.append(SequenceMatcher(None, d, c).ratio())
+
+    df = pandas.DataFrame(data={"dirty_lines": dirty, "clean_lines": clean, 'comp_ratio': comparison})
+    df = df[df['comp_ratio'] > 0.25]
     df.to_csv("./sineatertest2.csv", sep=',',index=False)
-    
+
